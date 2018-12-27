@@ -12,7 +12,7 @@ const CountdownWrapper = styled.div`
   align-items: center;
   flex: wrap;
 
-  background-color: #1995AD;
+  background-color: var(--green);
   border: 1px solid #000;
 
   line-height: 1.1;

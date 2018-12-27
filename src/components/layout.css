@@ -3,8 +3,10 @@ grey: #BCBABE
 light-red #f56976
 red: #f45b69
 yellow: #FFE400
-green: #1995AD
+green: var(--green)
 ice: #A1D6E2*/
+
+@import '../../layouts/variables.css';
 
 * {
   box-sizing: border-box;
@@ -31,7 +33,7 @@ body {
 }
 a {
   text-decoration: none;
-  color: #1995AD;
+  color: var(--green);
   transition: color 0.4s ease-out;
 }
 a:hover {
@@ -97,7 +99,7 @@ h2:before {
 h2:after {
   width: 200px;
   height: calc(24px + 10 * (100vw - 360px) / 1560);
-  background-color: #1995AD;
+  background-color: var(--green);
   top: 29px;
   left: -54px;
 }
@@ -128,9 +130,9 @@ h2.competitionSection:after {
   text-align: center;
   overflow: hidden;
   border-radius: 8px;
-  border: 1px solid #1995AD;
+  border: 1px solid var(--green);
 
-  color: #1995AD;
+  color: var(--green);
 
   transition: background-color 0.4s 0.1s ease-in-out;
 }
@@ -138,7 +140,7 @@ h2.competitionSection:after {
 .btn:hover {
   color: #fff;
   text-decoration: none;
-  background-color: #1995AD;
+  background-color: var(--green);
 
   transition: box-shadow 0.5s 0.1s ease-out;
 }

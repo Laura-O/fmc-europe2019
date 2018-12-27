@@ -13,6 +13,8 @@ const Nav = styled.nav`
   right: 0;
 
   z-index: 999;
+
+  margin-bottom: 2rem;
 `
 
 const NavList = styled.ul`
@@ -39,6 +41,7 @@ const Icon = styled.div`
   height: 10vh;
 
   font-size: 1.8rem;
+  font-weight: 500;
 
   svg {
     height: 10vh;
@@ -54,7 +57,7 @@ const Icon = styled.div`
 
   a:hover {
     text-decoration: none;
-    font-weight: 300;
+    font-weight: 600;
     color: #272727;
   }
 
@@ -101,7 +104,7 @@ const NavItem = styled.li`
     bottom: 0;
     left: 0;
     width: 0%;
-    border-bottom: 8px solid #14a76c;
+    border-bottom: 8px solid #1995AD;
     transition: 0.4s;
   }
   a:hover:after {

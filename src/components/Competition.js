@@ -18,11 +18,11 @@ const Divider = styled.hr`
   box-sizing: border-box;
 
   height: 1px;
-  color: #14a76c;
+  color: var(--green);
   background-image: linear-gradient(
     90deg,
     rgba(255, 0, 0, 0),
-    #14a76c 50%,
+    var(--green) 50%,
     rgba(255, 0, 0, 0) 100%
   );
 `

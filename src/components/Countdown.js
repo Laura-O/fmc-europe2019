@@ -2,17 +2,17 @@ import React from 'react'
 import styled from 'styled-components'
 
 const CountdownWrapper = styled.div`
-  top: calc(100vh - 110px);
+  top: calc(100vh - 200px);
   height: 100px;
   width: 100%;
-
+  
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   flex: wrap;
 
-  background-color: #14a76c;
+  background-color: var(--green);
   border: 1px solid #000;
 
   line-height: 1.1;

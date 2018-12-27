@@ -9,7 +9,7 @@ const Infocard = styled.div`
   padding: 0.2rem;
 
   background-color: #fff;
-  border: 1px solid #14a76c;
+  border: 1px solid #1995AD;
   border-radius: 4px;
 
   position: absolute;

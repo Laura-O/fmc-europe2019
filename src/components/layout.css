@@ -6,7 +6,7 @@ yellow: #FFE400
 green: var(--green)
 ice: #A1D6E2*/
 
-@import '../../layouts/variables.css';
+@import '../components/variables.css';
 
 * {
   box-sizing: border-box;

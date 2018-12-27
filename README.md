@@ -94,4 +94,4 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 ## 💫 Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default) [![Greenkeeper badge](https://badges.greenkeeper.io/Laura-O/fmc-europe2018.svg?token=272508a03ebae33e67ecf1ccc9ace44f5fbf0cf08f9ab27890458daf35f92d49&ts=1545932839460)](https://greenkeeper.io/)

@@ -12,14 +12,14 @@ const IndexPage = ({ data }) => (
     <Welcome />
     <OverviewMap markers={data.allLocationsJson.edges} />
     <Countdown date="2019-02-24T00:00:00" />
-    <About />
-    <FAQ />
+    <About aboutParagraphs={data.allAboutJson.edges} />
+    <FAQ faqEntries={data.allFaqJson.edges} />
   </Layout>
 )
 
 export default IndexPage
 
-export const mapMarkers = graphql`
+export const pageQuery = graphql`
   query LocationsQuery {
     allLocationsJson {
       edges {
@@ -33,6 +33,23 @@ export const mapMarkers = graphql`
           country
           city
           info
+        }
+      }
+    },
+    allAboutJson {
+      edges {
+        node {
+          id
+          paragraph
+        }
+      }
+    },
+     allFaqJson {
+      edges {
+        node {
+          id
+          question
+          answer
         }
       }
     }

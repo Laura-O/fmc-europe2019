@@ -6,7 +6,6 @@ const MiniSticker = styled.div`
   height: 14px;
 
   border-radius: 7px;
-  -webkit-border-radius: 7px;
 
   background: #14a76c;
 `

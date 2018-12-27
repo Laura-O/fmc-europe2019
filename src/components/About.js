@@ -7,10 +7,16 @@ const AboutWrapper = styled.div`
 
 export default class About extends React.Component {
   render() {
+    const aboutParagraphs = this.props.aboutParagraphs;
+
     return (
       <AboutWrapper id="AboutSection" className="section">
         <h2>About</h2>
-        <div />
+        <div>
+          {aboutParagraphs.map(el => 
+            (<div key={el.node.id}>{el.node.paragraph}</div>)
+          )}
+        </div>
       </AboutWrapper>
     )
   }

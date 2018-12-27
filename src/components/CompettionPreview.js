@@ -8,6 +8,12 @@ const PreviewWrapper = styled.div`
   align-items: center;
 
   padding: 10px;
+
+  height: 60vh;
+
+  .select {
+    text-align: center;
+  }
 `
 
 const PreviewElement = styled.div`
@@ -34,7 +40,7 @@ export default class CompetitionPreview extends React.Component {
     } = this.props
 
     const SelectElement = (
-      <div>
+      <div className="select">
         <div>Select a location to see details</div>
       </div>
     )

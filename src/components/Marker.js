@@ -15,7 +15,6 @@ const StickerWrapper = styled.div`
   left: -9px;
 
   border-radius: 15px;
-  -webkit-border-radius: 15px;
 `
 
 const Sticker = styled.div`
@@ -23,10 +22,9 @@ const Sticker = styled.div`
   height: 18px;
   float: left;
 
-  border-radius: 9px;
-  -webkit-border-radius: 9px;
+  border-radius: 9px; 
 
-  background: #14a76c;
+  background: #1995AD;
 `
 
 export default class Marker extends React.Component {

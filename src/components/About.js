@@ -30,7 +30,7 @@ export default class About extends React.Component {
               <li>Visit the competition page on the 
                 <a href="https://www.worldcubeassociation.org/competitions/FMCEurope2019/"> WCA Website.</a>
               </li>
-              <li>Fill out the registration form <strong>and enter the city in the comment field</strong>.
+              <li>Fill out the registration form and enter <strong>the city of the location you want to compete at</strong> in the comment field.
                 Please do not write anything else in this field!</li>
             </ol>
           </div>

@@ -154,8 +154,9 @@ class Header extends Component {
           </Link>
         </Icon>
         <Toggle
+          onTouchStart={this.toggleMenu()}
           onClick={this.toggleMenu()}
-         >
+          >
           Menu
         </Toggle>
         <NavList className={this.state.responsiveMenuOpen ? 'active' : ''}>

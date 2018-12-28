@@ -56,24 +56,24 @@ export default class CompetitionPreview extends React.Component {
         <h2>{city + ', ' + country}</h2>
         <div>
           <div className="lineHeading">Address:</div>
-          {address}
+          <span>{address}</span>
         </div>
         <div>
           <div className="lineHeading">Delegate:</div>
-          {delegate}
+          <span>{delegate}</span>
         </div>
         <div>
           <div className="lineHeading">Fee:</div>
-          {fee}
+          <span>{fee}</span>
         </div>
         <div>
           <div className="lineHeading">Timezone:</div>
-          {timezone}
+          <span>{timezone}</span>
         </div>
         {info &&
         <div>
           <div className="lineHeading">Info:</div>
-          {info}
+          <span>{info}</span>
         </div>
         }
         

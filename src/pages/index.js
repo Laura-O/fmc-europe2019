@@ -11,7 +11,7 @@ const IndexPage = ({ data }) => (
   <Layout>
     <Welcome />
     <OverviewMap markers={data.allLocationsJson.edges} />
-    <Countdown date="2019-02-24T00:00:00" />
+    <Countdown date="2019-03-23T11:00:00" />
     <About aboutParagraphs={data.allAboutJson.edges} />
     <FAQ faqEntries={data.allFaqJson.edges} />    
   </Layout>

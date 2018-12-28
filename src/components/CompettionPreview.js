@@ -32,8 +32,8 @@ export default class CompetitionPreview extends React.Component {
     const {
       city,
       country,
+      address,
       delegate,
-      email,
       fee,
       info,
       findClosestLocation,
@@ -49,16 +49,26 @@ export default class CompetitionPreview extends React.Component {
       <div>
         <h2>{city + ', ' + country}</h2>
         <div>
-          <div className="lineHeading">Delegate:</div> {delegate}
+          <div className="lineHeading">Address:</div>
+          {address}
+        </div>
+        <div>
+          <div className="lineHeading">Delegate:</div>
+          {delegate}
         </div>
         <div>
           <div className="lineHeading">Fee:</div>
           {fee}
         </div>
+
+        {info &&
         <div>
           <div className="lineHeading">Info:</div>
           {info}
         </div>
+        }
+        
+        
       </div>
     )
 

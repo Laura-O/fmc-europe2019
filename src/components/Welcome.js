@@ -22,8 +22,7 @@ const Headline = styled.div`
   padding: .25em 0;
 
   font-size: 2em;
-  line-height: 1;
-  text-transform: uppercase;
+  line-height: 1;  
 
   &:before,
   &:after {
@@ -31,7 +30,7 @@ const Headline = styled.div`
     left: 50%;
     transform: translate(-50%);
     content: "";
-    width:  30%;
+    width:  50%;
     height: .1em;
     
     background: #A1D6E2;
@@ -50,7 +49,7 @@ export default class FAQ extends React.Component {
   render() {
     return (
       <WelcomeWrapper>
-        <Headline>FMC Europe - 23/03/2018</Headline>
+        <Headline>Welcome to FMC Europe - 23/03/2018</Headline>
       </WelcomeWrapper>
     )
   }

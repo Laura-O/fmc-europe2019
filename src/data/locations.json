@@ -1,192 +1,202 @@
 [
   {
-    "lat": "51.520889",
-    "lng": "-0.14",
-    "country": "UK",
-    "city": "London",
-    "delegate": "John Doe",
-    "email": "foo@bar",
-    "fee": "12 Euro",
-    "info": "Snackwave pickled photo booth coloring book, lomo tofu unicorn pinterest cray viral heirloom narwhal everyday carry shoreditch etsy."
+    "lat": "45.810278",
+    "lng": "15.978056",
+    "country": "Croatia",
+    "city": "Zagreb",
+    "address": "Will be announced later",
+    "delegate": "Jernej Omulec",
+    "fee": "free",
+    "info": ""
   },
   {
-    "lat": "50.031444",
-    "lng": "36.224611",
-    "country": "Ukraine",
-    "city": "b",
-    "delegate": "John Doe",
-    "email": "foo@bar",
-    "fee": "6 Euro",
-    "info": "Snackwave pickled photo booth coloring book, lomo tofu unicorn pinterest cray viral heirloom narwhal everyday carry shoreditch etsy."
+    "lat": "55.676111",
+    "lng": "12.568889",
+    "country": "Denmark",
+    "city": "Storkøbenhavn",
+    "address": "",
+    "delegate": "Daniel Vædele Egdal",
+    "fee": "40 DKK",
+    "info": ""
   },
   {
-    "lat": "39.475028",
-    "lng": "-0.3955",
-    "country": "Spain",
-    "city": "Valencia",
-    "delegate": "John Doe",
-    "email": "foo@bar",
-    "fee": "12 Euro",
-    "info": "Snackwave pickled photo booth coloring book, lomo tofu unicorn pinterest cray viral heirloom narwhal everyday carry shoreditch etsy."
+    "lat": "55.429994",
+    "lng": "10.351367",
+    "country": "Denmark",
+    "city": "Odense",
+    "address": "Fyrrehøjen 1, 5270 Odense N, Denmark",
+    "delegate": "55.429994, 10.351367",
+    "fee": "40 DKK",
+    "info": ""
   },
   {
-    "lat": "40.1193086",
-    "lng": "-3.5791355",
-    "country": "Spain",
-    "city": "Madrid",
-    "delegate": "John Doe",
-    "email": "foo@bar",
-    "fee": "12 Euro",
-    "info": "Snackwave pickled photo booth coloring book, lomo tofu unicorn pinterest cray viral heirloom narwhal everyday carry shoreditch etsy."
+    "lat": "58.378212",
+    "lng": "26.714790",
+    "country": "Estonia",
+    "city": "Tartu",
+    "address": "University of Tartu, Faculty of Science and Technology, Juhan Liivi 2, 50409 Tartu",
+    "delegate": "Andreas Pung",
+    "fee": "tbd",
+    "info": ""
   },
   {
-    "lat": "37.15962",
-    "lng": "-3.594976",
-    "country": "Spain",
-    "city": "Granada",
-    "delegate": "John Doe",
-    "email": "foo@bar",
-    "fee": "12 Euro",
-    "info": "Snackwave pickled photo booth coloring book, lomo tofu unicorn pinterest cray viral heirloom narwhal everyday carry shoreditch etsy."
-  },
-  {
-    "lat": "43.234546",
-    "lng": "-2.894906",
-    "country": "Spain",
-    "city": "Bilbao",
-    "delegate": "John Doe",
-    "email": "foo@bar",
-    "fee": "12 Euro",
-    "info": "Snackwave pickled photo booth coloring book, lomo tofu unicorn pinterest cray viral heirloom narwhal everyday carry shoreditch etsy."
-  },
-  {
-    "lat": "46.541528",
-    "lng": "15.6335",
-    "country": "Slovenia",
-    "city": "Maribor",
-    "delegate": "John Doe",
-    "email": "foo@bar",
-    "fee": "12 Euro",
-    "info": "Snackwave pickled photo booth coloring book, lomo tofu unicorn pinterest cray viral heirloom narwhal everyday carry shoreditch etsy."
-  },
-  {
-    "lat": "48.168667",
-    "lng": "17.126167",
-    "country": "Slovakia",
-    "city": "Bratislava",
-    "delegate": "John Doe",
-    "email": "foo@bar",
-    "fee": "12 Euro",
-    "info": "Snackwave pickled photo booth coloring book, lomo tofu unicorn pinterest cray viral heirloom narwhal everyday carry shoreditch etsy."
-  },
-  {
-    "lat": "55.123702",
-    "lng": "61.433813",
-    "country": "Russia",
-    "city": "Chelyabinsk",
-    "delegate": "John Doe",
-    "email": "foo@bar",
-    "fee": "12 Euro",
-    "info": "Snackwave pickled photo booth coloring book, lomo tofu unicorn pinterest cray viral heirloom narwhal everyday carry shoreditch etsy."
-  },
-  {
-    "lat": "44.4735",
-    "lng": "26.065611",
-    "country": "Romania",
-    "city": "Buccharest",
-    "delegate": "John Doe",
-    "email": "foo@bar",
-    "fee": "12 Euro",
-    "info": "Snackwave pickled photo booth coloring book, lomo tofu unicorn pinterest cray viral heirloom narwhal everyday carry shoreditch etsy."
-  },
-  {
-    "lat": "44.4735",
-    "lng": "26.065611",
-    "country": "Romania",
-    "city": "Buccharest",
-    "delegate": "John Doe",
-    "email": "foo@bar",
-    "fee": "12 Euro",
-    "info": "Snackwave pickled photo booth coloring book, lomo tofu unicorn pinterest cray viral heirloom narwhal everyday carry shoreditch etsy."
-  },
-  {
-    "lat": "40.196972",
-    "lng": "-8.429167",
-    "country": "Portugal",
-    "city": "Coimbra",
-    "delegate": "John Doe",
-    "email": "foo@bar",
-    "fee": "12 Euro",
-    "info": "Snackwave pickled photo booth coloring book, lomo tofu unicorn pinterest cray viral heirloom narwhal everyday carry shoreditch etsy."
-  },
-  {
-    "lat": "52.211833",
-    "lng": "20.981917",
-    "country": "Poland",
-    "city": "Warsaw",
-    "delegate": "John Doe",
-    "email": "foo@bar",
-    "fee": "12 Euro",
-    "info": "Snackwave pickled photo booth coloring book, lomo tofu unicorn pinterest cray viral heirloom narwhal everyday carry shoreditch etsy."
-  },
-  {
-    "lat": "52.296213",
-    "lng": "5.279895",
-    "country": "Netherlands",
-    "city": "Huizen",
-    "delegate": "John Doe",
-    "email": "foo@bar",
-    "fee": "12 Euro",
-    "info": "Snackwave pickled photo booth coloring book, lomo tofu unicorn pinterest cray viral heirloom narwhal everyday carry shoreditch etsy."
-  },
-  {
-    "lat": "45.479639",
-    "lng": "9.224389",
-    "country": "Italy",
-    "city": "Milan",
-    "delegate": "John Doe",
-    "email": "foo@bar",
-    "fee": "12 Euro",
-    "info": "Snackwave pickled photo booth coloring book, lomo tofu unicorn pinterest cray viral heirloom narwhal everyday carry shoreditch etsy."
-  },
-  {
-    "lat": "51.732342",
-    "lng": "8.735911",
-    "country": "Germany",
-    "city": "Paderborn",
-    "delegate": "John Doe",
-    "email": "foo@bar",
-    "fee": "12 Euro",
-    "info": "Snackwave pickled photo booth coloring book, lomo tofu unicorn pinterest cray viral heirloom narwhal everyday carry shoreditch etsy."
-  },
-  {
-    "lat": "49.008111",
-    "lng": "12.109333",
-    "country": "Germany",
-    "city": "Regensburg",
-    "delegate": "John Doe",
-    "email": "foo@bar",
-    "fee": "5 Euro",
-    "info": "Snackwave pickled photo booth coloring book, lomo tofu unicorn pinterest cray viral heirloom narwhal everyday carry shoreditch etsy."
-  },
-  {
-    "lat": "60.169111",
-    "lng": "24.929167",
+    "lat": "60.1691095",
+    "lng": "24.9291729",
     "country": "Finland",
     "city": "Helsinki",
-    "delegate": "John Doe",
-    "email": "foo@bar",
-    "fee": "12 Euro",
-    "info": "Snackwave pickled photo booth coloring book, lomo tofu unicorn pinterest cray viral heirloom narwhal everyday carry shoreditch etsy."
+    "address": "Autotalo, Salomonkatu 17 B, 2nd floor, 00100 Helsinki",
+    "delegate": "Tomi Ronkainen",
+    "fee": "free/1 Euro",
+    "info": ""
   },
   {
-    "lat": "55.785389",
-    "lng": "12.521333",
-    "country": "Denmark",
-    "city": "Copenhagen",
-    "delegate": "John Doe",
-    "email": "foo@bar",
-    "fee": "12 Euro",
-    "info": "Snackwave pickled photo booth coloring book, lomo tofu unicorn pinterest cray viral heirloom narwhal everyday carry shoreditch etsy."
+    "lat": "45.7477",
+    "lng": "4.780682",
+    "country": "France",
+    "city": "Lyon",
+    "address": "4 allée des Tamaris, 69005 Lyon",
+    "delegate": "Antoine Piau",
+    "fee": "free/1 Euro",
+    "info": ""
+  },
+  {
+    "lat": "49.017222",
+    "lng": "12.096944",
+    "country": "Germany",
+    "city": "Regensburg",
+    "address": "tba",
+    "delegate": "Linus Frész",
+    "fee": "tba",
+    "info": ""
+  },
+  {
+    "lat": "51.514167",
+    "lng": "7.463889",
+    "country": "Germany",
+    "city": "Dortmund",
+    "address": "tba",
+    "delegate": "Laura Ohrndorf",
+    "fee": "tba",
+    "info": ""
+  },
+  {
+    "lat": "45.4625",
+    "lng": "9.186389",
+    "country": "Italy",
+    "city": "Milano",
+    "address": "",
+    "delegate": "Lorenzo Vigani Poli",
+    "fee": "tbd",
+    "info": ""
+  },
+  {
+    "lat": "56.95",
+    "lng": "24.1",
+    "country": "Latvia",
+    "city": "Rīga",
+    "address": "",
+    "delegate": "Jānis Zirnis",
+    "fee": "tbd",
+    "info": ""
+  },
+  {
+    "lat": "52.3324104",
+    "lng": "5.5314603",
+    "country": "Netherlands",
+    "city": "Zeewolde",
+    "address": "Lemsterweg 21, 3891 CR Zeewolde",
+    "delegate": "Sébastien Auroux",
+    "fee": "free",
+    "info": ""
+  },
+  {
+    "lat": "63.4163064",
+    "lng": "10.4068976",
+    "country": "Norway",
+    "city": "Trondheim",
+    "address": "NTNU Høyskoleringen 1, 7491 Trondheim",
+    "delegate": "Ulrik Bredland",
+    "fee": "free",
+    "info": ""
+  },
+  {
+    "lat": "50.324368",
+    "lng": "19.180789",
+    "country": "Poland",
+    "city": "Dąbrowa Górnicza",
+    "address": "Henryka Sienkiewicza 6A, 41-300 Dąbrowa Górnicza",
+    "delegate": "Piotr Trząski",
+    "fee": "5 PLN",
+    "info": ""
+  },
+  {
+    "lat": "47.746111",
+    "lng": "26.666111",
+    "country": "Romania",
+    "city": "Botoşani",
+    "address": "tba",
+    "delegate": "Bogdan Grigoruţă",
+    "fee": "5 RON",
+    "info": ""
+  },
+  {
+    "lat": "55.12357",
+    "lng": "61.433764",
+    "country": "Russia",
+    "city": "Chelyabinsk",
+    "address": "Mamin-Sibiryak's 22th library",
+    "delegate": "Vasily Stasyev",
+    "fee": "300 RUB",
+    "info": ""
+  },
+  {
+    "lat": "46.554722",
+    "lng": "15.646667",
+    "country": "Slovenia",
+    "city": "Maribor",
+    "address": "tba",
+    "delegate": "Petra Kobal Vogrinec",
+    "fee": "free",
+    "info": ""
+  },
+  {
+    "lat": "48.458775",
+    "lng": "35.040394",
+    "country": "Ukraine",
+    "city": "Dnepr",
+    "address": "Krasnaya 21g",
+    "delegate": "Vasily Stasyev",
+    "fee": "free",
+    "info": ""
+  },
+  {
+    "lat": "51.233333",
+    "lng": "0.566667",
+    "country": "United Kingdom",
+    "city": "Guildford",
+    "address": "Krasnaya 21g",
+    "delegate": "Vasily Stasyev",
+    "fee": "tba",
+    "info": ""
+  },
+  {
+    "lat": "52.933333",
+    "lng": "-0.816667",
+    "country": "United Kingdom",
+    "city": "East Midlands",
+    "address": "tba",
+    "delegate": "Sam Spendla",
+    "fee": "tba",
+    "info": ""
+  },
+  {
+    "lat": "42.065518",
+    "lng": "12.595968",
+    "country": "Italy",
+    "city": "Monterotondo",
+    "address": "Circolo Bocciofilo Monterotondo- Via Aldo Moro 1",
+    "delegate": "Gianluca Placenti",
+    "fee": "free",
+    "info": ""
   }
 ]

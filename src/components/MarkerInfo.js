@@ -14,7 +14,7 @@ const Infocard = styled.div`
 
   position: absolute;
   left: -58px;
-  top: -16px;
+  top: -28px;
   z-index: 99999;
 
   text-align: center;

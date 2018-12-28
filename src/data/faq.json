@@ -1,14 +1,10 @@
 [
     {
-        "question": "I am a new competitor ",
+        "question": "Where can I register",
         "answer": "hurray"
     },
     {
         "question": "I am a new competitor. Am I allowed to compete?",
         "answer": "Yes, you are allowed to compete. However, please keep in mind that no speedcubing events like 3x3x3 Cube or 4x4x4 Cube will be held at this competition."
-    },
-    {
-        "question": "warning",
-        "answer": "look out <a href=\"bla\">bla</a>"
     }
 ]

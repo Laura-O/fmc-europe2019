@@ -13,7 +13,7 @@ const IndexPage = ({ data }) => (
     <OverviewMap markers={data.allLocationsJson.edges} />
     <Countdown date="2019-02-24T00:00:00" />
     <About aboutParagraphs={data.allAboutJson.edges} />
-    <FAQ faqEntries={data.allFaqJson.edges} />
+    <FAQ faqEntries={data.allFaqJson.edges} />    
   </Layout>
 )
 
@@ -28,10 +28,10 @@ export const pageQuery = graphql`
           lat
           lng
           delegate
-          email
           fee
           country
           city
+          address
           info
         }
       }

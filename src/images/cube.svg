@@ -1,7 +1,4 @@
-import React from 'react'
-
-const Cube = () => (
-  <svg
+<svg
     height="40pt"
     viewBox="0 0 408 408"
     width="40pt"
@@ -32,6 +29,3 @@ const Cube = () => (
       <path d="m340 72c-2.207031 0-4-1.792969-4-4v-32c0-2.207031 1.792969-4 4-4s4 1.792969 4 4v32c0 2.207031-1.792969 4-4 4zm0 0" />
     </g>
   </svg>
-)
-
-export { Cube }

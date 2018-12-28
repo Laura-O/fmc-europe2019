@@ -165,6 +165,17 @@
     "timezone": "UTC+2"
   },
   {
+    "lat": "44.433333",
+    "lng": "26.1",
+    "country": "Romania",
+    "city": "Bucharest",
+    "address": "Will be announced later",
+    "delegate": "Mihai Capatinescu",
+    "fee": "Will be announced later",
+    "info": "",
+    "timezone": "UTC+2"
+  },
+  {
     "lat": "55.12357",
     "lng": "61.433764",
     "country": "Russia",

@@ -37,6 +37,7 @@ const NavList = styled.ul`
   @media only screen and (max-width: 768px) {
     justify-content: center;
     margin: 0;
+    padding-left: 0;
   }
 `
 
@@ -118,6 +119,7 @@ const NavItem = styled.li`
   @media only screen and (max-width: 768px) {
     padding: .1rem;
     justify-content: flex-start;
+    font-size: 1rem;
     font-weight: 500;
 
     a {

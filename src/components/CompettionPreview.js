@@ -10,6 +10,7 @@ const PreviewWrapper = styled.div`
   padding: 10px;
 
   height: 60vh;
+  width: 50vw;
 
   .select {
     text-align: center;
@@ -23,7 +24,7 @@ const PreviewWrapper = styled.div`
 
 const PreviewElement = styled.div`
   align-content: center;
-  width: 45vh;
+  width: 100%;
 
   padding: 1rem;
 `

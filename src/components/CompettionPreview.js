@@ -27,6 +27,10 @@ const PreviewElement = styled.div`
   width: 100%;
 
   padding: 1rem;
+
+  @media only screen and (max-width: 768px) {    
+    width: 90vw;
+  }
 `
 
 const ButtonWrapper = styled.div`

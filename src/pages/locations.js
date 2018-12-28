@@ -30,6 +30,7 @@ export const mapMarkers = graphql`
           delegate
           fee
           info
+          timezone
         }
       }
     }

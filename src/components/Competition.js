@@ -77,7 +77,7 @@ export default class Competition extends React.Component {
       `&size=400x200` +
       `&maptype=roadmap` +
       `&key=AIzaSyBUbeWkp9RjUCcW9fSGFc1WBNOlJQoNfJs` +
-      `&markers=color:0x14A76C%7C${lat},${lng}`
+      `&markers=color:0x1995AD%7C${lat},${lng}`
 
     return (
       <CompetitionWrapper id={id}>
@@ -91,9 +91,14 @@ export default class Competition extends React.Component {
                 <span>Address: </span><span>{address}</span>
             </div>
             <div>
+                <span>Delegate: </span><span>{delegate}</span>
+            </div>
+            <div>
                 <span>Fee: </span><span>{fee}</span>
             </div>
-            <div>{info}</div>
+            <div>
+                <span>Timezone: </span><span>{timezone}</span>
+            </div>
             <a href="/#AboutSection"><button className="btn">How to Register</button></a>
           </Infos>
         </ContentWrapper>

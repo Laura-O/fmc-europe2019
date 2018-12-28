@@ -15,7 +15,7 @@ const Nav = styled.nav`
 
   background-color: #F4F4F2;
 
-  @media only screen and (max-width: 768px) {   
+  @media only screen and (max-width: 768px) {
    flex-direction: column;
    right: auto;
    left: 0;
@@ -122,6 +122,17 @@ const NavItem = styled.li`
 
     a {
       padding: 0.4rem;
+    }
+  }
+
+  @media only screen and (max-width: 480px) {
+    padding: .1rem;
+    justify-content: flex-start;
+    font-size: 0.7rem;
+    font-weight: 500;
+
+    a {
+      padding: 0.2rem;
     }
   }
 `

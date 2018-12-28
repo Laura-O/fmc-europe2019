@@ -40,8 +40,8 @@ const Icon = styled.div`
   align-items: center;
   height: 10vh;
 
-  font-size: 1.8rem;
-  font-weight: 500;
+  font-size: 1.6rem;
+  font-weight: 400;
 
   svg {
     height: 10vh;
@@ -57,8 +57,7 @@ const Icon = styled.div`
 
   a:hover {
     text-decoration: none;
-    font-weight: 600;
-    color: #272727;
+    font-weight: 500;
   }
 
   @media only screen and (max-width: 768px) {

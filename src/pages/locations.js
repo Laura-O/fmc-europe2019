@@ -27,7 +27,6 @@ export const mapMarkers = graphql`
           country
           city
           delegate
-          email
           fee
           info
         }

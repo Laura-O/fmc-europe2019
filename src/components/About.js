@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 
 const AboutWrapper = styled.div`
-  height: 500px;
+  padding: 2em 1em;
 `
 
 export default class About extends React.Component {

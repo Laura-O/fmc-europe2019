@@ -10,7 +10,7 @@ const MapWrapper = styled.div`
   display: flex;
   justify-content: center;
 
-  padding: 1.5rem 1rem 2rem 1rem;
+  padding: 1rem 1rem 1rem 1rem;
 
   @media only screen and (max-width: 768px) {
     align-items: center;

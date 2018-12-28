@@ -7,6 +7,7 @@ import FAQ from '../components/FAQ'
 import About from '../components/About'
 import Welcome from '../components/Welcome'
 import Schedule from '../components/Schedule'
+import Footer from '../components/Footer'
 
 const IndexPage = ({ data }) => (
   <Layout>
@@ -15,7 +16,7 @@ const IndexPage = ({ data }) => (
     <Countdown date="2019-03-23T11:00:00" />
     <About aboutParagraphs={data.allAboutJson.edges} />
     <Schedule />
-    <FAQ faqEntries={data.allFaqJson.edges} />    
+    <FAQ faqEntries={data.allFaqJson.edges} />
   </Layout>
 )
 

@@ -42,6 +42,14 @@ const Infos = styled.div`
   width: 50vw;
 
   padding-left: 1em;
+
+  div {
+    margin: 1em 0;
+  }
+
+  span:first-child {
+    font-weight: 500;
+  }
 `
 
 const ContentWrapper = styled.div`
@@ -57,7 +65,7 @@ const ContentWrapper = styled.div`
 
 export default class Competition extends React.Component {
   render() {
-    const { id, city, country, delegate, email, info } = this.props
+    const { id, city, country, delegate, email, info, address, fee, timezone } = this.props
 
     const lat = parseFloat(this.props.lat)
     const lng = parseFloat(this.props.lng)
@@ -79,10 +87,14 @@ export default class Competition extends React.Component {
             <img src={mapsImage} />
           </MiniMap>
           <Infos>
-            <div>{email}</div>
-            <div>{delegate}</div>
+            <div>
+                <span>Address: </span><span>{address}</span>
+            </div>
+            <div>
+                <span>Fee: </span><span>{fee}</span>
+            </div>
             <div>{info}</div>
-            <button className="btn">Register</button>
+            <button className="btn">How to Register</button>
           </Infos>
         </ContentWrapper>
         <Divider />

@@ -62,6 +62,10 @@ const Infos = styled.div`
   a {
     align-self: center;
   }
+
+  @media only screen and (max-width: 768px) {
+    width: 90vw;
+  }
 `
 
 const ContentWrapper = styled.div`
@@ -80,27 +84,12 @@ export default class Competition extends React.Component {
     const { id, city, country, delegate, email, info, address, fee, timezone, lat, lng } = this.props
     const mapsURL = "https://www.google.com/maps/search/?api=1&query=";
 
-    const latFloat = parseFloat(this.props.lat)
-    const lngFloat = parseFloat(this.props.lng)
-
-    const mapsImage =
-      `https://maps.googleapis.com/maps/api/staticmap?` +
-      `center=${lat},${lng}` +
-      `&zoom=12` +
-      `&size=400x200` +
-      `&maptype=roadmap` +
-      `&key=AIzaSyBUbeWkp9RjUCcW9fSGFc1WBNOlJQoNfJs` +
-      `&markers=color:0x1995AD%7C${latFloat},${lngFloat}`
-
     return (
       <CompetitionWrapper id={id}>
         <div>
           <a href={mapsURL + lat + "," + lng }><h3 id={city}>{city + ', ' + country}</h3></a>
         </div>
         <ContentWrapper>
-          {/* <MiniMap>
-            <img src={mapsImage} />
-          </MiniMap> */}
           <Infos>
             <div>
                 <span>Address: </span>

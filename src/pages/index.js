@@ -36,6 +36,7 @@ export const pageQuery = graphql`
           city
           address
           info
+          timezone
         }
       }
     },

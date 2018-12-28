@@ -44,7 +44,7 @@ export default class About extends React.Component {
         <TableWrapper>
          <table>
                 <thead>
-                    <th>UTC+1</th><th>UTC+2</th><th>UTC+3</th><th>UTC+5</th><th>Event</th>
+                    <th>UTC</th><th>UTC+1</th><th>UTC+2</th><th>UTC+3</th><th>UTC+5</th><th>Event</th>
                 </thead>
                 <tbody>
 		<tr>

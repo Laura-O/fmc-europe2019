@@ -93,13 +93,13 @@ h2:before {
 h2:before {
   width: 600px;
   height: 60.16px;
-  margin: calc(28px + 6 * (100vw - 360px) / 1560);
+  margin: calc(24px + 6 * (100vw - 360px) / 1560);
   left: -200px;
   top: -36px;
 }
 h2:after {
   width: 200px;
-  height: calc(24px + 10 * (100vw - 360px) / 1560);
+  height: calc(22px + 10 * (100vw - 360px) / 1560);
   background-color: var(--green);
   top: 29px;
   left: -54px;

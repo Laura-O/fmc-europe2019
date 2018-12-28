@@ -65,7 +65,7 @@ export default class FAQ extends React.Component {
   render() {
     return (
       <WelcomeWrapper>
-        <Headline>Welcome to FMC Europe - 23/03/2018</Headline>
+        <Headline>Welcome to FMC Europe - 23/03/2019</Headline>
       </WelcomeWrapper>
     )
   }

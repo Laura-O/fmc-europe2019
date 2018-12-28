@@ -32,6 +32,9 @@ const NavList = styled.ul`
     flex-direction: column;
     margin-top: 50px;
 
+    .active {
+      display: flex;
+    }
   }
 `
 
@@ -150,7 +153,7 @@ class Header extends Component {
         <Icon>
           <Cube />
           <Link to="/">
-            <span>FMC Europe 2018</span>
+            <span>FMC Europe 2019</span>
           </Link>
         </Icon>
         <Toggle

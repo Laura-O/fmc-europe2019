@@ -142,7 +142,7 @@ export default class Countdown extends React.Component {
             <div>Sec</div>
           </CountDownElement>
         </CountdownInnerWrapper>
-        <div>Until FMC Europe 2018</div>
+        <div>Until FMC Europe 2019</div>
       </CountdownWrapper>
     )
   }

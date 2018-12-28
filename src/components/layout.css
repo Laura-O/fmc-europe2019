@@ -92,7 +92,7 @@ h2:before {
   z-index: -1;
 }
 h2:before {
-  width: 600px;
+  width: 400px;
   height: 60.16px;
   margin: calc(24px + 6 * (100vw - 360px) / 1560);
   left: -200px;

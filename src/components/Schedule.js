@@ -31,7 +31,12 @@ const TableWrapper = styled.div`
             padding: 0.2em;
             font-size: 0.8em;
         }
+
+        td {
+            font-size: 0.7em;
+        }
     }
+    
 `
 
  

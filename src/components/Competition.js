@@ -94,7 +94,7 @@ export default class Competition extends React.Component {
                 <span>Fee: </span><span>{fee}</span>
             </div>
             <div>{info}</div>
-            <button className="btn">How to Register</button>
+            <a href="/#AboutSection"><button className="btn">How to Register</button></a>
           </Infos>
         </ContentWrapper>
         <Divider />

@@ -152,7 +152,11 @@ class Header extends Component {
             <span>FMC Europe 2018</span>
           </Link>
         </Icon>
-        <Toggle onClick={this.toggleMenu()}>Menu</Toggle>
+        <Toggle
+          onClick={this.toggleMenu()}
+          onTouchStart={this.toggleMenu()}>
+          Menu
+        </Toggle>
         <NavList className={this.state.responsiveMenuOpen ? 'active' : ''}>
           <NavItem>
             <Link to="/#AboutSection">About</Link>

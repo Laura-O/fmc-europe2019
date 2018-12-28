@@ -2,6 +2,7 @@ import React from 'react'
 import Competition from '../components/Competition'
 import { graphql } from 'gatsby'
 import Layout from '../components/layout'
+import { Link } from "gatsby";
 
 const Locations = ({ data }) => (
   <Layout>
@@ -12,7 +13,7 @@ const Locations = ({ data }) => (
           {data.allLocationsJson.edges.map(location => (
           <li key={location.node.id}>
           {location.node.country}: 
-          <a href={'#' + location.node.city}> {location.node.city}</a>
+          <Link to={'/locations/#' + location.node.city}> {location.node.city}</Link>
           </li>
         ))}
         </ul>

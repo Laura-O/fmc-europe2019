@@ -14,7 +14,7 @@ const QuestionWrapper = styled.div`
 `
 
 const Question = styled.div`
-  font-weight: 500;
+  font-weight: 500 !important;
 `
 
 const Answer = styled.div`

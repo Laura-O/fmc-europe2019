@@ -5,7 +5,7 @@ const CompetitionWrapper = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-content: space-between;
+  align-content: center;
 
   padding: 0.5em;
 
@@ -43,8 +43,10 @@ const MiniMap = styled.div`
   }
 `
 const Infos = styled.div`
-  width: 50vw;
+  display: flex;
+  flex-direction: column;
 
+  width: 60vw;
   padding-left: 1em;
 
   div {
@@ -54,13 +56,17 @@ const Infos = styled.div`
   span:first-child {
     font-weight: 500;
   }
+
+  a {
+    align-self: center;
+  }
 `
 
 const ContentWrapper = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 1em 0;
+  padding: 1em;
 
   @media only screen and (max-width: 768px) {
     flex-direction: column;

@@ -54,6 +54,7 @@ const Icon = styled.div`
 
   a {
     text-decoration: none;
+    cursor: pointer;
   }
 
   a:hover {
@@ -92,6 +93,7 @@ const NavItem = styled.li`
     display: inline-block;
     position: relative;
     text-decoration: none;
+    cursor: pointer;
   }
 
   a:after {
@@ -126,6 +128,7 @@ const Toggle = styled.div`
 
   @media only screen and (max-width: 768px) {
     display: block;
+    cursor: pointer;
   }
 `
 
@@ -135,9 +138,7 @@ class Header extends Component {
   }
 
   toggleMenu = () => () => {
-    console.log('click')
     const currentState = this.state.responsiveMenuOpen
-    console.log(currentState)
     this.setState({
       responsiveMenuOpen: !currentState,
     })
@@ -154,7 +155,7 @@ class Header extends Component {
         </Icon>
         <Toggle
           onClick={this.toggleMenu()}
-          onTouchStart={this.toggleMenu()}>
+         >
           Menu
         </Toggle>
         <NavList className={this.state.responsiveMenuOpen ? 'active' : ''}>

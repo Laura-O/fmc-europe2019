@@ -1,5 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
+import { Link } from "gatsby";
+
 
 const CompetitionWrapper = styled.div`
   display: flex;
@@ -117,7 +119,7 @@ export default class Competition extends React.Component {
             <div>
                 <span>Timezone: </span><span>{timezone}</span>
             </div>
-            <a href="/#AboutSection"><button className="btn">How to Register</button></a>
+            <Link to="/#AboutSection"><button className="btn">How to Register</button></Link>
           </Infos>
         </ContentWrapper>
         <Divider />

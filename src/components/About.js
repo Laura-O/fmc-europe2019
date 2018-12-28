@@ -18,7 +18,7 @@ export default class About extends React.Component {
             It will take place on 23rd March 2019.
           </div>
           <div>
-            <h4 id="RegisterSection">Howto register</h4>
+            <h4 id="RegisterSection">How to register</h4>
             <ol>
               <li>Select a location where you want to compete</li>
               <li>Visit the competition page on the 

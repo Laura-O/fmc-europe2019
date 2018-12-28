@@ -13,8 +13,6 @@ const Nav = styled.nav`
 
   z-index: 999;
 
-  margin-bottom: 1rem;
-
   background-color: #F4F4F2;
 
   @media only screen and (max-width: 768px) {   

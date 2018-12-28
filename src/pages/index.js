@@ -17,7 +17,6 @@ const IndexPage = ({ data }) => (
     <About aboutParagraphs={data.allAboutJson.edges} />
     <Schedule />
     <FAQ faqEntries={data.allFaqJson.edges} />
-    <Footer />
   </Layout>
 )
 

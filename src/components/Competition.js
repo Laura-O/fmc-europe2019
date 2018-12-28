@@ -84,6 +84,7 @@ export default class Competition extends React.Component {
       `&key=AIzaSyBUbeWkp9RjUCcW9fSGFc1WBNOlJQoNfJs` +
       `&markers=color:0x1995AD%7C${latFloat},${lngFloat}`
 
+
     return (
       <CompetitionWrapper id={id}>
         <div>
@@ -101,6 +102,9 @@ export default class Competition extends React.Component {
                   {address}
                   </a>
                 </span>
+            </div>
+            <div>
+                <span>Delegate: </span><span>{delegate}</span>
             </div>
             <div>
                 <span>Delegate: </span><span>{delegate}</span>

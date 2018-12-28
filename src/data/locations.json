@@ -7,7 +7,8 @@
     "address": "Will be announced later",
     "delegate": "Jernej Omulec",
     "fee": "free",
-    "info": ""
+    "info": "",
+    "timezone": "UTC+1"
   },
   {
     "lat": "55.676111",
@@ -17,7 +18,8 @@
     "address": "",
     "delegate": "Daniel Vædele Egdal",
     "fee": "40 DKK",
-    "info": ""
+    "info": "",
+    "timezone": "UTC+1"
   },
   {
     "lat": "55.429994",
@@ -25,9 +27,10 @@
     "country": "Denmark",
     "city": "Odense",
     "address": "Fyrrehøjen 1, 5270 Odense N, Denmark",
-    "delegate": "55.429994, 10.351367",
+    "delegate": "Henrik Buus Aagard",
     "fee": "40 DKK",
-    "info": ""
+    "info": "",
+    "timezone": "UTC+1"
   },
   {
     "lat": "58.378212",
@@ -37,7 +40,8 @@
     "address": "University of Tartu, Faculty of Science and Technology, Juhan Liivi 2, 50409 Tartu",
     "delegate": "Andreas Pung",
     "fee": "tbd",
-    "info": ""
+    "info": "",
+    "timezone": "UTC+1"
   },
   {
     "lat": "60.1691095",
@@ -47,7 +51,8 @@
     "address": "Autotalo, Salomonkatu 17 B, 2nd floor, 00100 Helsinki",
     "delegate": "Tomi Ronkainen",
     "fee": "free/1 Euro",
-    "info": ""
+    "info": "",
+    "timezone": "UTC+1"
   },
   {
     "lat": "45.7477",
@@ -57,7 +62,8 @@
     "address": "4 allée des Tamaris, 69005 Lyon",
     "delegate": "Antoine Piau",
     "fee": "free/1 Euro",
-    "info": ""
+    "info": "",
+    "timezone": "UTC+1"
   },
   {
     "lat": "49.017222",
@@ -67,7 +73,8 @@
     "address": "tba",
     "delegate": "Linus Frész",
     "fee": "tba",
-    "info": ""
+    "info": "",
+    "timezone": "UTC+1"
   },
   {
     "lat": "51.514167",
@@ -77,7 +84,8 @@
     "address": "tba",
     "delegate": "Laura Ohrndorf",
     "fee": "tba",
-    "info": ""
+    "info": "",
+    "timezone": "UTC+1"
   },
   {
     "lat": "45.4625",
@@ -87,7 +95,8 @@
     "address": "",
     "delegate": "Lorenzo Vigani Poli",
     "fee": "tbd",
-    "info": ""
+    "info": "",
+    "timezone": "UTC+1"
   },
   {
     "lat": "56.95",
@@ -97,7 +106,8 @@
     "address": "",
     "delegate": "Jānis Zirnis",
     "fee": "tbd",
-    "info": ""
+    "info": "",
+    "timezone": "UTC+1"
   },
   {
     "lat": "52.3324104",
@@ -107,7 +117,8 @@
     "address": "Lemsterweg 21, 3891 CR Zeewolde",
     "delegate": "Sébastien Auroux",
     "fee": "free",
-    "info": ""
+    "info": "",
+    "timezone": "UTC+1"
   },
   {
     "lat": "63.4163064",
@@ -117,7 +128,8 @@
     "address": "NTNU Høyskoleringen 1, 7491 Trondheim",
     "delegate": "Ulrik Bredland",
     "fee": "free",
-    "info": ""
+    "info": "",
+    "timezone": "UTC+1"
   },
   {
     "lat": "50.324368",
@@ -127,7 +139,8 @@
     "address": "Henryka Sienkiewicza 6A, 41-300 Dąbrowa Górnicza",
     "delegate": "Piotr Trząski",
     "fee": "5 PLN",
-    "info": ""
+    "info": "",
+    "timezone": "UTC+1"
   },
   {
     "lat": "47.746111",
@@ -137,7 +150,8 @@
     "address": "tba",
     "delegate": "Bogdan Grigoruţă",
     "fee": "5 RON",
-    "info": ""
+    "info": "",
+    "timezone": "UTC+1"
   },
   {
     "lat": "55.12357",
@@ -147,7 +161,8 @@
     "address": "Mamin-Sibiryak's 22th library",
     "delegate": "Vasily Stasyev",
     "fee": "300 RUB",
-    "info": ""
+    "info": "",
+    "timezone": "UTC+1"
   },
   {
     "lat": "46.554722",
@@ -157,7 +172,8 @@
     "address": "tba",
     "delegate": "Petra Kobal Vogrinec",
     "fee": "free",
-    "info": ""
+    "info": "",
+    "timezone": "UTC+1"
   },
   {
     "lat": "48.458775",
@@ -167,7 +183,8 @@
     "address": "Krasnaya 21g",
     "delegate": "Vasily Stasyev",
     "fee": "free",
-    "info": ""
+    "info": "",
+    "timezone": "UTC+1"
   },
   {
     "lat": "51.233333",
@@ -177,7 +194,8 @@
     "address": "Krasnaya 21g",
     "delegate": "Vasily Stasyev",
     "fee": "tba",
-    "info": ""
+    "info": "",
+    "timezone": "UTC+1"
   },
   {
     "lat": "52.933333",
@@ -187,7 +205,8 @@
     "address": "tba",
     "delegate": "Sam Spendla",
     "fee": "tba",
-    "info": ""
+    "info": "",
+    "timezone": "UTC+1"
   },
   {
     "lat": "42.065518",
@@ -197,6 +216,7 @@
     "address": "Circolo Bocciofilo Monterotondo- Via Aldo Moro 1",
     "delegate": "Gianluca Placenti",
     "fee": "free",
-    "info": ""
+    "info": "",
+    "timezone": "UTC+1"
   }
 ]

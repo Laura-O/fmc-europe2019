@@ -26,6 +26,7 @@ export const mapMarkers = graphql`
           lng
           country
           city
+          address
           delegate
           fee
           info

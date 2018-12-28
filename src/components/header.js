@@ -13,7 +13,7 @@ const Nav = styled.nav`
 
   z-index: 999;
 
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 
   background-color: #F4F4F2;
 
@@ -74,7 +74,7 @@ const Icon = styled.div`
 `
 
 const NavItem = styled.li`
-  padding: 0.8rem;
+  padding: 0.6rem;
   padding-bottom: 2rem;
   margin: 0;
   text-align: center;

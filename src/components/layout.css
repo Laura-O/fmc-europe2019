@@ -10,6 +10,7 @@ ice: #A1D6E2*/
 
 * {
   box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
 }
 :after,
 :before {
@@ -24,7 +25,7 @@ body {
   position: relative;
   margin: 0;
   padding: 0;
-  font-family: Lato, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-size: 16px;
   font-weight: 300;
   color: #272727;

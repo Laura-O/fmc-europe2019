@@ -31,6 +31,7 @@ const NavList = styled.ul`
     display: none;
     flex-direction: column;
     margin-top: 50px;
+
   }
 `
 
@@ -85,7 +86,6 @@ const NavItem = styled.li`
     font-size: 1rem;
     letter-spacing: 2px;
     padding: 1rem;
-    /* margin-bottom: 0.5rem; */
     color: #272727;
     padding: 10px 30px 0px;
 
@@ -109,11 +109,16 @@ const NavItem = styled.li`
   a:hover:after {
     width: 80%;
   }
+
+  @media only screen and (max-width: 768px) {
+    padding: .5rem;
+  }
 `
 
 const Toggle = styled.div`
   display: none;
   margin-left: auto;
+  margin-top: 10px;
   right: 0;
   position: absolute;
   padding: 1rem;

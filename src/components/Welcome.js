@@ -7,6 +7,10 @@ const WelcomeWrapper = styled.div`
   align-items: center;
   height: 10vh;
 
+  @media only screen and (max-width: 600px) {
+    height: 5vh;
+  }
+
   svg {
     height: 10vh;
   }
@@ -22,7 +26,12 @@ const Headline = styled.div`
   padding: .25em 0;
 
   font-size: 2em;
-  line-height: 1;  
+  line-height: 1;
+
+  @media only screen and (max-width: 600px) {
+    font-size: 1em;
+    padding: 0.1em 0;
+  }
 
   &:before,
   &:after {
@@ -42,6 +51,13 @@ const Headline = styled.div`
   &:after {
     bottom: 0;
     animation: lineDown $duration $easing;
+  }
+
+  @media only screen and (max-width: 768px) {
+    &:before,
+    &:after {
+      display: none;
+    }
   }
 `
 

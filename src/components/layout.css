@@ -30,6 +30,7 @@ body {
   color: #272727;
   line-height: 1.5;
   background: #fff;
+  width: 100%;
 }
 a {
   text-decoration: none;
@@ -179,4 +180,19 @@ h2.competitionSection:after {
 .map {
   width: 400px;
   height: 200px;
+}
+
+
+@media only screen and (max-width: 768px) {
+  h2 {
+    font-size: calc(20px + 12 * (100vw - 360px) / 1560);
+  }
+
+  h2:after {
+    width: 150px;
+    height: calc(12px + 10 * (100vw - 360px) / 1560);
+    background-color: var(--green);
+    top: 19px;
+    left: -24px;
+  }
 }

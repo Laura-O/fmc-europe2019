@@ -14,6 +14,11 @@ const PreviewWrapper = styled.div`
   .select {
     text-align: center;
   }
+
+  @media only screen and (max-width: 768px) {
+    justify-content: flex-start;
+    height: 100%;
+  }
 `
 
 const PreviewElement = styled.div`

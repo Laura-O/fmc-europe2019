@@ -50,7 +50,7 @@ const Infos = styled.div`
   padding-left: 1em;
 
   div {
-    margin: 1em 0;
+    margin: .5em 0;
   }
 
   span:first-child {

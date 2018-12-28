@@ -92,7 +92,7 @@ const NavItem = styled.li`
     letter-spacing: 2px;
     padding: 1rem;
     color: #272727;
-    padding: 10px 30px 0px;
+    padding: 10px 15px 0px;
 
     display: inline-block;
     position: relative;

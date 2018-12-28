@@ -43,7 +43,7 @@ export default class FAQ extends React.Component {
         <h2>Frequently Asked Questions</h2>
         <div>
           {this.props.faqEntries.map(el => (
-            <QuestionWrapper>
+            <QuestionWrapper key={el.node.id}>
               <Question>{el.node.question}</Question>
               <Answer>{ReactHtmlParser(el.node.answer)}</Answer>
               <Divider><span></span></Divider>

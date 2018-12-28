@@ -4,10 +4,14 @@ import styled from 'styled-components'
 const CompetitionWrapper = styled.div`
   display: flex;
   flex-direction: column;
-
+  justify-content: center;
   align-content: space-between;
 
   padding: 0.5em;
+
+  h3 {
+    padding-left: 20%;
+  }
 `
 
 const Divider = styled.hr`
@@ -65,10 +69,11 @@ const ContentWrapper = styled.div`
 
 export default class Competition extends React.Component {
   render() {
-    const { id, city, country, delegate, email, info, address, fee, timezone } = this.props
+    const { id, city, country, delegate, email, info, address, fee, timezone, lat, lng } = this.props
+    const mapsURL = "https://www.google.com/maps/search/?api=1&query=";
 
-    const lat = parseFloat(this.props.lat)
-    const lng = parseFloat(this.props.lng)
+    const latFloat = parseFloat(this.props.lat)
+    const lngFloat = parseFloat(this.props.lng)
 
     const mapsImage =
       `https://maps.googleapis.com/maps/api/staticmap?` +
@@ -77,18 +82,25 @@ export default class Competition extends React.Component {
       `&size=400x200` +
       `&maptype=roadmap` +
       `&key=AIzaSyBUbeWkp9RjUCcW9fSGFc1WBNOlJQoNfJs` +
-      `&markers=color:0x1995AD%7C${lat},${lng}`
+      `&markers=color:0x1995AD%7C${latFloat},${lngFloat}`
 
     return (
       <CompetitionWrapper id={id}>
-        <h3>{city + ', ' + country}</h3>
+        <div>
+          <a href={mapsURL + lat + "," + lng }><h3 id={city}>{city + ', ' + country}</h3></a>
+        </div>
         <ContentWrapper>
-          <MiniMap>
+          {/* <MiniMap>
             <img src={mapsImage} />
-          </MiniMap>
+          </MiniMap> */}
           <Infos>
             <div>
-                <span>Address: </span><span>{address}</span>
+                <span>Address: </span>
+                <span>
+                  <a href={mapsURL + lat + "," + lng }>
+                  {address}
+                  </a>
+                </span>
             </div>
             <div>
                 <span>Delegate: </span><span>{delegate}</span>

@@ -13,6 +13,7 @@ const TableWrapper = styled.div`
     table {
         border: none;
         border-radius: 3px;
+        padding-top: 1em;
     }
 
     th {
@@ -44,7 +45,14 @@ export default class About extends React.Component {
         <TableWrapper>
          <table>
                 <thead>
-                    <th>UTC</th><th>UTC+1</th><th>UTC+2</th><th>UTC+3</th><th>UTC+5</th><th>Event</th>
+                    <tr>
+                        <th>UTC</th>
+                        <th>UTC+1</th>
+                        <th>UTC+2</th>
+                        <th>UTC+3</th>
+                        <th>UTC+5</th>
+                        <th>Event</th>
+                    </tr>
                 </thead>
                 <tbody>
                 <tr>

@@ -3,6 +3,12 @@ import styled from 'styled-components'
 
 const AboutWrapper = styled.div`
   padding: 2em 1em;
+
+  strong {
+    font-weight: 400;
+  }
+
+
 `
 
 export default class About extends React.Component {
@@ -20,12 +26,12 @@ export default class About extends React.Component {
           <div>
             <h4 id="RegisterSection">How to register</h4>
             <ol>
-              <li>Select a location where you want to compete</li>
+              <li>Identify the location where you want to compete.</li>
               <li>Visit the competition page on the 
-                <a href="https://www.worldcubeassociation.org/competitions/FMCEurope2019/"> WCA Website</a>
+                <a href="https://www.worldcubeassociation.org/competitions/FMCEurope2019/"> WCA Website.</a>
               </li>
-              <li>Fill out the registration form and enter the city in the comment field.
-                Please do not write anything else in this field.</li>
+              <li>Fill out the registration form <strong>and enter the city in the comment field</strong>.
+                Please do not write anything else in this field!</li>
             </ol>
           </div>
         </div>

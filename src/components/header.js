@@ -7,34 +7,36 @@ import { Cube } from '../assets/cube'
 const Nav = styled.nav`
   display: flex;
 
-  text-align: right;
-  height: 42px;
+  text-align: right;  
   top: 0;
   right: 0;
 
   z-index: 999;
 
   margin-bottom: 2rem;
+
+  background-color: #F4F4F2;
+
+  @media only screen and (max-width: 768px) {   
+   flex-direction: column;
+   right: auto;
+   left: 0;
+   padding: 0;
+   margin-bottom: 1rem;
+  }
 `
 
 const NavList = styled.ul`
   display: flex;
   margin-top: 0;
   margin-left: auto;
-
-  background-color: #fff;
   z-index: 999;
   top: 0;
   right: 0;
 
   @media only screen and (max-width: 768px) {
-    display: none;
-    flex-direction: column;
-    margin-top: 50px;
-
-    .active {
-      display: flex;
-    }
+    justify-content: center;
+    margin: 0;
   }
 `
 
@@ -66,7 +68,7 @@ const Icon = styled.div`
   }
 
   @media only screen and (max-width: 768px) {
-    font-size: 1rem;
+    font-size: 1rem;    
   }
 `
 
@@ -75,8 +77,6 @@ const NavItem = styled.li`
   padding-bottom: 2rem;
   margin: 0;
   text-align: center;
-
-  background-color: #fff;
 
   justify-content: flex-end;
 
@@ -116,37 +116,17 @@ const NavItem = styled.li`
   }
 
   @media only screen and (max-width: 768px) {
-    padding: .5rem;
-  }
-`
+    padding: .1rem;
+    justify-content: flex-start;
+    font-weight: 500;
 
-const Toggle = styled.div`
-  display: none;
-  margin-left: auto;
-  margin-top: 10px;
-  right: 0;
-  position: absolute;
-  padding: 1rem;
-  cursor: pointer;
-
-  @media only screen and (max-width: 768px) {
-    display: block;
-    cursor: pointer;
+    a {
+      padding: 0.4rem;
+    }
   }
 `
 
 class Header extends Component {
-  state = {
-    responsiveMenuOpen: false,
-  }
-
-  toggleMenu = () => () => {
-    const currentState = this.state.responsiveMenuOpen
-    this.setState({
-      responsiveMenuOpen: !currentState,
-    })
-  }
-
   render() {
     return (
       <Nav>
@@ -155,16 +135,13 @@ class Header extends Component {
           <Link to="/">
             <span>FMC Europe 2019</span>
           </Link>
-        </Icon>
-        <Toggle
-          onTouchStart={this.toggleMenu()}
-          onClick={this.toggleMenu()}
-          >
-          Menu
-        </Toggle>
-        <NavList className={this.state.responsiveMenuOpen ? 'active' : ''}>
+        </Icon>        
+        <NavList>
           <NavItem>
             <Link to="/#AboutSection">About</Link>
+          </NavItem>
+          <NavItem>
+            <Link to="/#Schedule">Schedule</Link>
           </NavItem>
           <NavItem>
             <Link to="/#FAQSection">FAQ</Link>

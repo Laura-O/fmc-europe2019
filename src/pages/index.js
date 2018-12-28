@@ -6,6 +6,7 @@ import Countdown from '../components/Countdown'
 import FAQ from '../components/FAQ'
 import About from '../components/About'
 import Welcome from '../components/Welcome'
+import Schedule from '../components/Schedule'
 
 const IndexPage = ({ data }) => (
   <Layout>
@@ -13,6 +14,7 @@ const IndexPage = ({ data }) => (
     <OverviewMap markers={data.allLocationsJson.edges} />
     <Countdown date="2019-03-23T11:00:00" />
     <About aboutParagraphs={data.allAboutJson.edges} />
+    <Schedule />
     <FAQ faqEntries={data.allFaqJson.edges} />    
   </Layout>
 )

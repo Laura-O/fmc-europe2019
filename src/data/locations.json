@@ -41,7 +41,7 @@
     "delegate": "Andreas Pung",
     "fee": "tbd",
     "info": "",
-    "timezone": "UTC+1"
+    "timezone": "UTC+2"
   },
   {
     "lat": "60.1691095",
@@ -52,7 +52,7 @@
     "delegate": "Tomi Ronkainen",
     "fee": "free/1 Euro",
     "info": "",
-    "timezone": "UTC+1"
+    "timezone": "UTC+2"
   },
   {
     "lat": "45.7477",
@@ -107,7 +107,7 @@
     "delegate": "Jānis Zirnis",
     "fee": "tbd",
     "info": "",
-    "timezone": "UTC+1"
+    "timezone": "UTC+2"
   },
   {
     "lat": "52.3324104",
@@ -151,7 +151,7 @@
     "delegate": "Bogdan Grigoruţă",
     "fee": "5 RON",
     "info": "",
-    "timezone": "UTC+1"
+    "timezone": "UTC+2"
   },
   {
     "lat": "55.12357",
@@ -195,7 +195,7 @@
     "delegate": "Vasily Stasyev",
     "fee": "tba",
     "info": "",
-    "timezone": "UTC+1"
+    "timezone": "UTC"
   },
   {
     "lat": "52.933333",
@@ -206,7 +206,18 @@
     "delegate": "Sam Spendla",
     "fee": "tba",
     "info": "",
-    "timezone": "UTC+1"
+    "timezone": "UTC"
+  },
+  {
+    "lat": "51.50939",
+    "lng": "-0.11832",
+    "country": "United Kingdom",
+    "city": "London",
+    "address": "tba",
+    "delegate": "Daniel Sheppard",
+    "fee": "tba",
+    "info": "",
+    "timezone": "UTC"
   },
   {
     "lat": "42.065518",

@@ -1,10 +1,18 @@
 [
     {
         "question": "Where can I register",
-        "answer": "hurray"
+        "answer": "Please read the instructions in the <a href=\"#RegisterSection\">About section</a>"
     },
     {
         "question": "I am a new competitor. Am I allowed to compete?",
         "answer": "Yes, you are allowed to compete. However, please keep in mind that no speedcubing events like 3x3x3 Cube or 4x4x4 Cube will be held at this competition."
+    },
+    {
+        "question": "Is there anything I should know about Fewest Moves?",
+        "answer": "Please read the official <a href=\"https://www.worldcubeassociation.org/regulations/\">WCA Regulations</a>, especially <a href=\"https://www.worldcubeassociation.org/regulations/#article-E-fewest-moves\">Article E</a>."
+    },
+    {
+        "question": "I have a question which is not in this FAQ Section. Who can I ask?",
+        "answer": "Please send an email to <a href=\"mailto:fmc-europe-orga@googlegroups.com\">fmc-europe-orga@googlegroups.com</a>."
     }
 ]

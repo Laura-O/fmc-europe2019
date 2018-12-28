@@ -42,6 +42,7 @@ export default class CompetitionPreview extends React.Component {
       fee,
       info,
       findClosestLocation,
+      timezone
     } = this.props
 
     const SelectElement = (
@@ -65,7 +66,10 @@ export default class CompetitionPreview extends React.Component {
           <div className="lineHeading">Fee:</div>
           {fee}
         </div>
-
+        <div>
+          <div className="lineHeading">Timezone:</div>
+          {timezone}
+        </div>
         {info &&
         <div>
           <div className="lineHeading">Info:</div>

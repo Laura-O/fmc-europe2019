@@ -14,8 +14,8 @@ const IndexPage = ({ data }) => (
     <Welcome />
     <OverviewMap markers={data.allLocationsJson.edges} />
     <Countdown date="2019-03-23T11:00:00" />
-    <About aboutParagraphs={data.allAboutJson.edges} />
     <Schedule />
+    <About aboutParagraphs={data.allAboutJson.edges} />
     <FAQ faqEntries={data.allFaqJson.edges} />
   </Layout>
 )
@@ -36,6 +36,7 @@ export const pageQuery = graphql`
           city
           address
           info
+          timezone
         }
       }
     },

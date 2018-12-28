@@ -37,8 +37,7 @@ a {
   color: var(--green);
   transition: color 0.4s ease-out;
 }
-a:hover {
-  color: #272727;
+a:hover {  
   font-weight: 400;
 }
 a:focus {

@@ -1,10 +1,16 @@
 import React from 'react'
 import styled from 'styled-components'
+import Link from 'gatsby-link';
 
 const ScheduleWrapper = styled.div`
   padding: 2em 1em;
   display: flex;
-  flex-direction: column;  
+  flex-direction: column;
+
+  .important {
+    font-weight: 500;
+    padding-top: 2em;
+  }
 `
 
 const TableWrapper = styled.div`
@@ -51,11 +57,13 @@ export default class About extends React.Component {
          <table>
                 <thead>
                     <tr>
-                        <th>UTC</th>
-                        <th>UTC+1</th>
-                        <th>UTC+2</th>
+                        <th class="tooltip fade" data-title="United Kingdom">UTC</th>
+                        <th class="tooltip fade" data-title="Denmark France Germany Italy Netherlands Norway Poland Sweden">
+                            UTC+1
+                        </th>
+                        <th class="tooltip fade" data-title="Estonia Finland Romania Ukraine">UTC+2</th>
                         <th>UTC+3</th>
-                        <th>UTC+5</th>
+                        <th class="tooltip fade" data-title="Russia (Chelyabinsk)">UTC+5</th>
                         <th>Event</th>
                     </tr>
                 </thead>
@@ -119,6 +127,8 @@ export default class About extends React.Component {
                 </tbody>
             </table>
         </TableWrapper>
+        <div className="important">Important: Please pay attention to the time zone of your location!</div>
+        <div>You can find this information on the <Link to="/locations">locations page</Link>.</div>
       </ScheduleWrapper>
     )
   }

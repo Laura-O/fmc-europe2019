@@ -12,15 +12,12 @@ const FAQWrapper = styled.div`
 const QuestionWrapper = styled.div`
   max-width: 90%;
 `
-
 const Question = styled.div`
   font-weight: 500 !important;
 `
-
 const Answer = styled.div`
   
 `
-
 
 const Divider = styled.div`
   border-bottom: 1px solid #BCBABE;

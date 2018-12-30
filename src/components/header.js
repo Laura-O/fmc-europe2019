@@ -66,13 +66,17 @@ const Icon = styled.div`
     font-weight: 500;
   }
 
+  @media only screen and (max-width: 1024px) {
+    font-size: 1.2rem;
+  }
+
   @media only screen and (max-width: 768px) {
-    font-size: 1rem;    
+    font-size: 1rem;
   }
 `
 
 const NavItem = styled.li`
-  padding: 0.6rem;
+  padding: 0.5rem;
   padding-bottom: 2rem;
   margin: 0;
   text-align: center;
@@ -146,13 +150,16 @@ class Header extends Component {
           <Link to="/">
             <span>FMC Europe 2019</span>
           </Link>
-        </Icon>        
+        </Icon>
         <NavList>
-          <NavItem>
-            <Link to="/#AboutSection">About</Link>
+        <NavItem>
+            <Link to="/#NewsSection">News</Link>
           </NavItem>
           <NavItem>
             <Link to="/#Schedule">Schedule</Link>
+          </NavItem>
+          <NavItem>
+            <Link to="/#AboutSection">About</Link>
           </NavItem>
           <NavItem>
             <Link to="/#FAQSection">FAQ</Link>

@@ -121,6 +121,17 @@
     "timezone": "UTC+2"
   },
   {
+    "lat": "54.722854",
+    "lng": "25.3282169",
+    "country": "Lithuania",
+    "city": "Vilnius",
+    "address": "Saulėtekio al. 5, Vilnius 10222, Lithuania",
+    "delegate": "Nathan Dwyer",
+    "fee": "5 EUR",
+    "info": "",
+    "timezone": "UTC+2"
+  },
+  {
     "lat": "52.3324104",
     "lng": "5.5314603",
     "country": "Netherlands",
@@ -196,6 +207,17 @@
     "fee": "free",
     "info": "",
     "timezone": "UTC+1"
+  },
+  {
+    "lat": "41.01",
+    "lng": "28.960278",
+    "country": "Turkey",
+    "city": "Istanbul",
+    "address": "Will be announced later",
+    "delegate": "İskender Aznavur",
+    "fee": "Will be announced later",
+    "info": "",
+    "timezone": "UTC+3"
   },
   {
     "lat": "48.458775",

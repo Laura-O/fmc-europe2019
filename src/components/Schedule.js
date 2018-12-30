@@ -57,13 +57,13 @@ export default class About extends React.Component {
          <table>
                 <thead>
                     <tr>
-                        <th class="tooltip fade" data-title="United Kingdom">UTC</th>
-                        <th class="tooltip fade" data-title="Denmark France Germany Italy Netherlands Norway Poland Sweden">
+                        <th className="tooltip fade" data-title="United Kingdom">UTC</th>
+                        <th className="tooltip fade" data-title="Denmark France Germany Italy Netherlands Norway Poland Sweden">
                             UTC+1
                         </th>
-                        <th class="tooltip fade" data-title="Estonia Finland Romania Ukraine">UTC+2</th>
+                        <th className="tooltip fade" data-title="Estonia Finland Romania Ukraine">UTC+2</th>
                         <th>UTC+3</th>
-                        <th class="tooltip fade" data-title="Russia (Chelyabinsk)">UTC+5</th>
+                        <th className="tooltip fade" data-title="Russia (Chelyabinsk)">UTC+5</th>
                         <th>Event</th>
                     </tr>
                 </thead>

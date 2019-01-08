@@ -18,7 +18,7 @@
     "gatsby-plugin-styled-components": "^3.0.4",
     "gatsby-source-filesystem": "^2.0.13",
     "gatsby-transformer-json": "^2.1.7",
-    "gatsby-transformer-sharp": "^2.1.9",
+    "gatsby-transformer-sharp": "^2.1.10",
     "geolib": "^2.0.24",
     "google-map-react": "^1.1.1",
     "grommet": "^2.0.1",

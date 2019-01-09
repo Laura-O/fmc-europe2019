@@ -56,7 +56,8 @@ img {
 }
 h1,
 h2,
-h3 {
+h3,
+h4 {
   font-weight: 300;
   text-transform: uppercase;
 }
@@ -73,6 +74,10 @@ h3 {
 }
 h3 {
   font-size: calc(18px + 2 * (100vw - 360px) / 1560);
+  letter-spacing: 6px;
+}
+h4 {
+  font-size: calc(14px + 2 * (100vw - 360px) / 1560);
   letter-spacing: 6px;
 }
 h3,

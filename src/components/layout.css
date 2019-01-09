@@ -39,8 +39,9 @@ a {
   color: var(--green);
   transition: color 0.4s ease-out;
 }
-a:hover {  
+a:hover {
   font-weight: 400;
+  color: var(--green);
 }
 a:focus {
   outline: 2px solid #ccc;
@@ -105,9 +106,9 @@ h2:before {
 }
 h2:after {
   width: 200px;
-  height: calc(20px + 10 * (100vw - 360px) / 1560);
+  height: calc(18px + 10 * (100vw - 360px) / 1560);
   background-color: var(--green);
-  top: 29px;
+  top: 30px;
   left: -32px;
 }
 

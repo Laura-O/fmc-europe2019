@@ -16,8 +16,6 @@ export default class Competitors extends React.Component {
   handleSort = clickedColumn => () => {
     const { column, data, direction } = this.state
 
-    console.log([clickedColumn])
-
     if (column !== clickedColumn) {
       this.setState({
         column: clickedColumn,

@@ -7,10 +7,6 @@ const CompetitorPage = ({ data: {
     allCompetitorsJson: { edges },
   }, }) => {
 
-    console.log(edges)
-    // edges.forEach( competitor => competitor.node.single === 0 ? 999 : competitor.node.single );
-    edges.forEach( edge => edge.node.single === 0 ? 999 : edge.node.single );
-
     return (
         <Layout>
             <div id="CompetitionsSection">

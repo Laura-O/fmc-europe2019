@@ -26,8 +26,6 @@ const Nav = styled.nav`
 
 const NavList = styled.ul`
   display: flex;
-  margin-top: 0;
-  margin-left: auto;
   z-index: 999;
   top: 0;
   right: 0;
@@ -58,12 +56,20 @@ const Icon = styled.div`
 
   a {
     text-decoration: none;
+    font-weight: 500;
     cursor: pointer;
   }
 
+  span {
+      float: left;
+      text-align: left;
+      padding-left: 5px;
+    }
+
   a:hover {
     text-decoration: none;
-    font-weight: 500;
+    font-weight: 700;
+    color: #000000;
   }
 
   @media only screen and (max-width: 1024px) {
@@ -77,7 +83,7 @@ const Icon = styled.div`
 
 const NavItem = styled.li`
   padding: 0.5rem;
-  padding-bottom: 2rem;
+  padding-bottom: 1rem;
   margin: 0;
   text-align: center;
 
@@ -94,12 +100,16 @@ const NavItem = styled.li`
     letter-spacing: 2px;
     padding: 1rem;
     color: #272727;
-    padding: 10px 15px 0px;
+    padding: 10px 10px 0px;
 
     display: inline-block;
     position: relative;
     text-decoration: none;
-    cursor: pointer;
+    cursor: pointer;   
+  }
+
+  a:hover {
+    color: #000000;
   }
 
   a:after {
@@ -166,6 +176,9 @@ class Header extends Component {
           </NavItem>
           <NavItem>
             <Link to="/locations">Locations</Link>
+          </NavItem>
+          <NavItem>
+            <Link to="/competitors">Competitors</Link>
           </NavItem>
         </NavList>
       </Nav>

@@ -1,6 +1,8 @@
 import React from 'react'
+import { StaticQuery, graphql } from "gatsby"
 import styled from 'styled-components'
 import { Link } from "gatsby";
+import { Divider } from 'semantic-ui-react'
 
 
 const CompetitionWrapper = styled.div`
@@ -16,7 +18,7 @@ const CompetitionWrapper = styled.div`
   }
 `
 
-const Divider = styled.hr`
+const MainDivider = styled.hr`
   border: 0;
   margin: 1.35em auto;
   width: 100%;
@@ -79,9 +81,22 @@ const ContentWrapper = styled.div`
   }
 `
 
+const CompetitorsWrapper = styled(ContentWrapper)`  
+  flex-direction: column;
+  align-items: flex-start;
+  
+  width: 60vw;
+
+  ul {
+    margin-top: 0.5em;
+    font-size: 1.1rem;
+    padding-left: 1em;
+  }
+`
+
 export default class Competition extends React.Component {
   render() {
-    const { id, city, country, delegate, email, info, address, fee, timezone, lat, lng } = this.props
+    const { id, city, country, delegate, email, info, address, fee, timezone, lat, lng, localCompetitors } = this.props
     const mapsURL = "https://www.google.com/maps/search/?api=1&query=";
 
     return (
@@ -111,7 +126,22 @@ export default class Competition extends React.Component {
             <Link to="/#AboutSection"><button className="btn">How to Register</button></Link>
           </Infos>
         </ContentWrapper>
-        <Divider />
+        <ContentWrapper>
+          <CompetitorsWrapper>
+            <h4>Registered Competitors</h4>
+            <ul>
+              {
+                localCompetitors.map(competitor => (
+                  <li>{competitor.node.name}</li>
+                ))
+              }
+            {localCompetitors.length <= 0 &&
+              <div>No competitors registered.</div>
+            }
+            </ul>
+          </CompetitorsWrapper>
+        </ContentWrapper>
+        <MainDivider />
       </CompetitionWrapper>
     )
   }

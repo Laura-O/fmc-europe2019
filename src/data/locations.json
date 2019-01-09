@@ -8,7 +8,8 @@
     "delegate": "Jernej Omulec",
     "fee": "free",
     "info": "",
-    "timezone": "UTC+1"
+    "timezone": "UTC+1",
+    "fullname": "Croatia - Zagreb"
   },
   {
     "lat": "55.676111",
@@ -19,7 +20,8 @@
     "delegate": "Daniel Vædele Egdal",
     "fee": "40 DKK",
     "info": "",
-    "timezone": "UTC+1"
+    "timezone": "UTC+1",
+    "fullname": "Denmark - Storkøbenhavn"
   },
   {
     "lat": "55.429994",
@@ -30,7 +32,8 @@
     "delegate": "Henrik Buus Aagard",
     "fee": "40 DKK",
     "info": "",
-    "timezone": "UTC+1"
+    "timezone": "UTC+1",
+    "fullname": "Denmark - Odense"
   },
   {
     "lat": "58.378212",
@@ -41,7 +44,8 @@
     "delegate": "Andreas Pung",
     "fee": "Will be announced later",
     "info": "",
-    "timezone": "UTC+2"
+    "timezone": "UTC+2",
+    "fullname": "Estonia - Tartu"
   },
   {
     "lat": "60.1691095",
@@ -52,7 +56,8 @@
     "delegate": "Tomi Ronkainen",
     "fee": "free/1 Euro",
     "info": "",
-    "timezone": "UTC+2"
+    "timezone": "UTC+2",
+    "fullname": "Finland - Helsinki"
   },
   {
     "lat": "45.7477",
@@ -63,7 +68,8 @@
     "delegate": "Antoine Piau",
     "fee": "free/1 Euro",
     "info": "",
-    "timezone": "UTC+1"
+    "timezone": "UTC+1",
+    "fullname": "France - Lyon"
   },
   {
     "lat": "49.017222",
@@ -74,7 +80,8 @@
     "delegate": "Linus Frész",
     "fee": "Will be announced later",
     "info": "",
-    "timezone": "UTC+1"
+    "timezone": "UTC+1",
+    "fullname": "Germany - Regensburg"
   },
   {
     "lat": "51.514167",
@@ -85,7 +92,8 @@
     "delegate": "Laura Ohrndorf",
     "fee": "Will be announced later",
     "info": "",
-    "timezone": "UTC+1"
+    "timezone": "UTC+1",
+    "fullname": "Germany - Dortmund"
   },
   {
     "lat": "45.4625",
@@ -96,7 +104,8 @@
     "delegate": "Lorenzo Vigani Poli",
     "fee": "Will be announced later",
     "info": "",
-    "timezone": "UTC+1"
+    "timezone": "UTC+1",
+    "fullname": "Italy - Milano"
   },
   {
     "lat": "42.065518",
@@ -107,7 +116,8 @@
     "delegate": "Gianluca Placenti",
     "fee": "free",
     "info": "",
-    "timezone": "UTC+1"
+    "timezone": "UTC+1",
+    "fullname": "Italy - Monterotondo"
   },
   {
     "lat": "56.95",
@@ -118,7 +128,8 @@
     "delegate": "Jānis Zirnis",
     "fee": "Will be announced later",
     "info": "",
-    "timezone": "UTC+2"
+    "timezone": "UTC+2",
+    "fullname": "Latvia - Rīga"
   },
   {
     "lat": "54.722854",
@@ -129,7 +140,8 @@
     "delegate": "Nathan Dwyer",
     "fee": "5 EUR",
     "info": "",
-    "timezone": "UTC+2"
+    "timezone": "UTC+2",
+    "fullname": "Lithuania - Vilnius"
   },
   {
     "lat": "52.3324104",
@@ -140,7 +152,8 @@
     "delegate": "Sébastien Auroux",
     "fee": "free",
     "info": "",
-    "timezone": "UTC+1"
+    "timezone": "UTC+1",
+    "fullname": "Netherlands - Zeewolde"
   },
   {
     "lat": "63.4163064",
@@ -151,7 +164,8 @@
     "delegate": "Ulrik Bredland",
     "fee": "free",
     "info": "",
-    "timezone": "UTC+1"
+    "timezone": "UTC+1",
+    "fullname": "Norway - Trondheim"
   },
   {
     "lat": "50.324368",
@@ -162,7 +176,8 @@
     "delegate": "Piotr Trząski",
     "fee": "5 PLN",
     "info": "",
-    "timezone": "UTC+1"
+    "timezone": "UTC+1",
+    "fullname": "Poland - Dąbrowa Górnicza"
   },
   {
     "lat": "47.746111",
@@ -173,7 +188,8 @@
     "delegate": "Bogdan Grigoruţă",
     "fee": "5 RON",
     "info": "",
-    "timezone": "UTC+2"
+    "timezone": "UTC+2",
+    "fullname": "Romania - Botoşani"
   },
   {
     "lat": "44.433333",
@@ -184,7 +200,8 @@
     "delegate": "Mihai Capatinescu",
     "fee": "Will be announced later",
     "info": "",
-    "timezone": "UTC+2"
+    "timezone": "UTC+2",
+    "fullname": "Romania - Bucharest"
   },
   {
     "lat": "55.12357",
@@ -195,7 +212,8 @@
     "delegate": "Vasily Stasyev",
     "fee": "300 RUB",
     "info": "",
-    "timezone": "UTC+1"
+    "timezone": "UTC+1",
+    "fullname": "Russia - Chelyabinsk"
   },
   {
     "lat": "46.554722",
@@ -206,7 +224,8 @@
     "delegate": "Petra Kobal Vogrinec",
     "fee": "free",
     "info": "",
-    "timezone": "UTC+1"
+    "timezone": "UTC+1",
+    "fullname": "Slovenia - Maribor"
   },
   {
     "lat": "41.01",
@@ -217,7 +236,8 @@
     "delegate": "İskender Aznavur",
     "fee": "Will be announced later",
     "info": "",
-    "timezone": "UTC+3"
+    "timezone": "UTC+3",
+    "fullname": "Turkey - Istanbul"
   },
   {
     "lat": "48.458775",
@@ -228,7 +248,8 @@
     "delegate": "Serhii Koksharov",
     "fee": "free",
     "info": "",
-    "timezone": "UTC+2"
+    "timezone": "UTC+2",
+    "fullname": "Ukraine - Dnepr"
   },
   {
     "lat": "51.233333",
@@ -239,7 +260,8 @@
     "delegate": "James Molloy",
     "fee": "Will be announced later",
     "info": "",
-    "timezone": "UTC"
+    "timezone": "UTC",
+    "fullname": "United Kingdom - Guildford"
   },
   {
     "lat": "52.933333",
@@ -250,7 +272,8 @@
     "delegate": "Sam Spendla",
     "fee": "Will be announced later",
     "info": "",
-    "timezone": "UTC"
+    "timezone": "UTC",
+    "fullname": "United Kingdom - East Midlands"
   },
   {
     "lat": "51.50939",
@@ -261,6 +284,7 @@
     "delegate": "Daniel Sheppard",
     "fee": "Will be announced later",
     "info": "",
-    "timezone": "UTC"
+    "timezone": "UTC",
+    "fullname": "United Kingdom - London"
   }
 ]

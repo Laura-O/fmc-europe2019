@@ -6,8 +6,7 @@ import { Cube } from '../assets/cube'
 
 const Nav = styled.nav`
   display: flex;
-
-  text-align: right;  
+  text-align: right;
   top: 0;
   right: 0;
 
@@ -29,11 +28,12 @@ const NavList = styled.ul`
   z-index: 999;
   top: 0;
   right: 0;
+  justify-content: center;
 
   @media only screen and (max-width: 768px) {
-    justify-content: center;
+    flex-wrap: wrap;
     margin: 0;
-    padding-left: 0;
+    padding-left: 1em;
   }
 `
 

@@ -102,7 +102,7 @@ export default class Competition extends React.Component {
     return (
       <CompetitionWrapper id={id}>
         <div>
-          <a href={mapsURL + lat + "," + lng }><h3 id={city}>{city + ', ' + country}</h3></a>
+          <a href={mapsURL + lat + "," + lng }><h3 id={city.replace(/[^A-Z0-9]/ig, "")}>{city + ', ' + country}</h3></a>
         </div>
         <ContentWrapper>
           <Infos>

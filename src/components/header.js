@@ -66,12 +66,7 @@ const Icon = styled.div`
       padding-left: 5px;
     }
 
-  a:hover {
-    text-decoration: none;
-    font-weight: 700;
-    color: #000000;
-  }
-
+  
   @media only screen and (max-width: 1024px) {
     font-size: 1.2rem;
   }
@@ -96,7 +91,7 @@ const NavItem = styled.li`
   flex-direction: column;
 
   a {
-    font-size: 1rem;
+    font-size: 1.1rem;
     letter-spacing: 2px;
     padding: 1rem;
     color: #272727;

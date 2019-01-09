@@ -12,11 +12,11 @@
     "fullname": "Croatia - Zagreb"
   },
   {
-    "lat": "55.676111",
-    "lng": "12.568889",
+    "lat": "55.749517",
+    "lng": "12.335086",
     "country": "Denmark",
-    "city": "Storkøbenhavn",
-    "address": "Will be announced later",
+    "city": "Storkøbenhavn (Måløv)",
+    "address": "Klakkebjerg 4, 2750 Ballerup, Denmark",
     "delegate": "Daniel Vædele Egdal",
     "fee": "40 DKK",
     "info": "",
@@ -42,7 +42,7 @@
     "city": "Tartu",
     "address": "University of Tartu, Faculty of Science and Technology, Juhan Liivi 2, 50409 Tartu",
     "delegate": "Andreas Pung",
-    "fee": "Will be announced later",
+    "fee": "1 Euro",
     "info": "",
     "timezone": "UTC+2",
     "fullname": "Estonia - Tartu"
@@ -96,13 +96,13 @@
     "fullname": "Germany - Dortmund"
   },
   {
-    "lat": "45.4625",
-    "lng": "9.186389",
+    "lat": "45.479775",
+    "lng": "9.226997",
     "country": "Italy",
     "city": "Milano",
-    "address": "Will be announced later",
+    "address": "Building 11, Room IIIA; Via Ampère 2, Milano",
     "delegate": "Lorenzo Vigani Poli",
-    "fee": "Will be announced later",
+    "fee": "Free",
     "info": "",
     "timezone": "UTC+1",
     "fullname": "Italy - Milano"
@@ -228,6 +228,30 @@
     "fullname": "Slovenia - Maribor"
   },
   {
+    "lat": "57.706111",
+    "lng": "11.953611",
+    "country": "Sweden",
+    "city": "Gothenburg (<25 km from city center)",
+    "address": "Will be announced later",
+    "delegate": "Daniel Wallin + Anders Berggren",
+    "fee": "Will be announced later",
+    "info": "",
+    "timezone": "UTC+1",
+    "fullname": "Sweden - Gothenburg"
+  },
+  {
+    "lat": "47.408762",
+    "lng": "8.508363",
+    "country": "Switzerland",
+    "city": "Zürich",
+    "address": "Auguste-Piccard-Hof 1, 8093 Zürich, Gebäude HPT, Raum C103",
+    "delegate": "Oleg Gritsenko",
+    "fee": "5 CHF",
+    "info": "",
+    "timezone": "UTC+1",
+    "fullname": "Switzerland - Zürich"
+  },
+  {
     "lat": "41.01",
     "lng": "28.960278",
     "country": "Turkey",
@@ -276,13 +300,13 @@
     "fullname": "United Kingdom - East Midlands"
   },
   {
-    "lat": "51.50939",
-    "lng": "-0.11832",
+    "lat": "51.520889",
+    "lng": "-0.14",
     "country": "United Kingdom",
     "city": "London",
-    "address": "Will be announced later",
+    "address": "University of Westminster, Faculty of Science and Technology, 115 New Cavendish Street, London, W1W 6UW",
     "delegate": "Daniel Sheppard",
-    "fee": "Will be announced later",
+    "fee": "Free",
     "info": "",
     "timezone": "UTC",
     "fullname": "United Kingdom - London"

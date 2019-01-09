@@ -25,7 +25,7 @@ const Locations = ({ data }) => {
             {data.allLocationsJson.edges.map(location => (
             <li key={location.node.id}>
             {location.node.country}: 
-            <Link to={'/locations/#' + location.node.city}> {location.node.city}</Link>
+            <Link to={'/locations/#' + location.node.city.replace(/[^A-Z0-9]/ig, "")}> {location.node.city}</Link>
             </li>
           ))}
           </ul>

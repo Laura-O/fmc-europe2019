@@ -77,7 +77,7 @@ h3 {
   letter-spacing: 6px;
 }
 h4 {
-  font-size: calc(14px + 2 * (100vw - 360px) / 1560);
+  font-size: calc(16px + 2 * (100vw - 360px) / 1560);
   letter-spacing: 6px;
 }
 h3,

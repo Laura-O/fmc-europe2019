@@ -582,7 +582,7 @@
         "registration_id": 73,
         "comments": "Italy - Milano",
         "single": 28,
-        "average": 0
+        "average": 999
     },
     {
         "name": "Gabriele Cappelletti",
@@ -591,7 +591,7 @@
         "registration_id": 85,
         "comments": "Italy - Monterotondo",
         "single": 33,
-        "average": 0
+        "average": 999
     },
     {
         "name": "Maksym Kashliatskyi",
@@ -600,7 +600,7 @@
         "registration_id": 40,
         "comments": "Ukraine - Dnepr",
         "single": 34,
-        "average": 0
+        "average": 999
     },
     {
         "name": "Benjamin Stokes",
@@ -609,7 +609,7 @@
         "registration_id": 33,
         "comments": "United Kingdom - Guildford",
         "single": 37,
-        "average": 0
+        "average": 999
     },
     {
         "name": "Jason Harley",
@@ -618,7 +618,7 @@
         "registration_id": 34,
         "comments": "United Kingdom - London",
         "single": 37,
-        "average": 0
+        "average": 999
     },
     {
         "name": "Carl Emil Exner",
@@ -627,7 +627,7 @@
         "registration_id": 13,
         "comments": "Denmark - Stork\u00f8benhavn",
         "single": 38,
-        "average": 0
+        "average": 999
     },
     {
         "name": "Chris Mills",
@@ -636,7 +636,7 @@
         "registration_id": 28,
         "comments": "United Kingdom - London",
         "single": 38,
-        "average": 0
+        "average": 999
     },
     {
         "name": "Remo Pihel",
@@ -645,7 +645,7 @@
         "registration_id": 72,
         "comments": "Estonia - Tartu",
         "single": 40,
-        "average": 0
+        "average": 999
     },
     {
         "name": "Roberts Dreijers",
@@ -654,7 +654,7 @@
         "registration_id": 66,
         "comments": "Latvia - R\u012bga",
         "single": 40,
-        "average": 0
+        "average": 999
     },
     {
         "name": "Vincent Chan",
@@ -663,7 +663,7 @@
         "registration_id": 3,
         "comments": "Netherlands - Zeewolde",
         "single": 40,
-        "average": 0
+        "average": 999
     },
     {
         "name": "Luca Stalpers",
@@ -672,7 +672,7 @@
         "registration_id": 20,
         "comments": "Netherlands - Zeewolde",
         "single": 41,
-        "average": 0
+        "average": 999
     },
     {
         "name": "Andy Nicholls",
@@ -681,7 +681,7 @@
         "registration_id": 64,
         "comments": "United Kingdom - Guildford",
         "single": 42,
-        "average": 0
+        "average": 999
     },
     {
         "name": "Christopher Morris",
@@ -690,7 +690,7 @@
         "registration_id": 11,
         "comments": "United Kingdom - East Midlands",
         "single": 45,
-        "average": 0
+        "average": 999
     },
     {
         "name": "Joy Liou Liu",
@@ -699,7 +699,7 @@
         "registration_id": 65,
         "comments": "Denmark - Stork\u00f8benhavn",
         "single": 47,
-        "average": 0
+        "average": 999
     },
     {
         "name": "Alex Burns",
@@ -708,7 +708,7 @@
         "registration_id": 56,
         "comments": "United Kingdom - London",
         "single": 51,
-        "average": 0
+        "average": 999
     },
     {
         "name": "Danil Kravchenko",
@@ -717,7 +717,7 @@
         "registration_id": 91,
         "comments": "unknown location - Belgorod",
         "single": 51,
-        "average": 0
+        "average": 999
     },
     {
         "name": "\u0141ukasz Burchard",
@@ -726,7 +726,7 @@
         "registration_id": 47,
         "comments": "Poland - D\u0105browa G\u00f3rnicza",
         "single": 55,
-        "average": 0
+        "average": 999
     },
     {
         "name": "Anton Pesykov",
@@ -735,7 +735,7 @@
         "registration_id": 38,
         "comments": "Ukraine - Dnepr",
         "single": 67,
-        "average": 0
+        "average": 999
     },
     {
         "name": "Art\u016brs Smiltnieks",
@@ -744,7 +744,7 @@
         "registration_id": 67,
         "comments": "Latvia - R\u012bga",
         "single": 74,
-        "average": 0
+        "average": 999
     },
     {
         "name": "Alexander Harvey",
@@ -752,8 +752,8 @@
         "country": "United Kingdom",
         "registration_id": 17,
         "comments": "United Kingdom - London",
-        "single": 0,
-        "average": 0
+        "single": 999,
+        "average": 999
     },
     {
         "name": "Dennis Eijkel",
@@ -761,8 +761,8 @@
         "country": "Netherlands",
         "registration_id": 63,
         "comments": "Netherlands - Zeewolde",
-        "single": 0,
-        "average": 0
+        "single": 999,
+        "average": 999
     },
     {
         "name": "Enrico Saggiorato",
@@ -770,8 +770,8 @@
         "country": "Italy",
         "registration_id": 75,
         "comments": "Italy - Milano",
-        "single": 0,
-        "average": 0
+        "single": 999,
+        "average": 999
     },
     {
         "name": "Francesco Iezzi",
@@ -779,8 +779,8 @@
         "country": "Italy",
         "registration_id": 86,
         "comments": "Italy - Monterotondo",
-        "single": 0,
-        "average": 0
+        "single": 999,
+        "average": 999
     },
     {
         "name": "Kieran Nisbet",
@@ -788,8 +788,8 @@
         "country": "United Kingdom",
         "registration_id": 7,
         "comments": "United Kingdom - London",
-        "single": 0,
-        "average": 0
+        "single": 999,
+        "average": 999
     },
     {
         "name": "Salzano Antonio",
@@ -797,8 +797,8 @@
         "country": "Italy",
         "registration_id": 88,
         "comments": "Italy - Monterotondo",
-        "single": 0,
-        "average": 0
+        "single": 999,
+        "average": 999
     },
     {
         "name": "Urho Kinnunen",
@@ -806,8 +806,8 @@
         "country": "Finland",
         "registration_id": 84,
         "comments": "Finland - Helsinki",
-        "single": 0,
-        "average": 0
+        "single": 999,
+        "average": 999
     },
     {
         "name": "Yinte Dik",
@@ -815,7 +815,7 @@
         "country": "Netherlands",
         "registration_id": 8,
         "comments": "Netherlands - Zeewolde",
-        "single": 0,
-        "average": 0
+        "single": 999,
+        "average": 999
     }
 ]

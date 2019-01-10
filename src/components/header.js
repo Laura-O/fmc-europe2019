@@ -37,7 +37,6 @@ const NavList = styled.ul`
   @media only screen and (max-width: 768px) {
     flex-wrap: wrap;
     justify-content: center;
-
     margin: 0;
     padding-left: 1em;
   }

@@ -41,6 +41,7 @@ export default class Competitors extends React.Component {
 
     return (
       <TableWrapper>
+        <div><strong>Important:</strong> Registered competitors are not synchronized and updated immediately. Please check again later if you notice something is missing or not updated yet.</div>
         <Table sortable celled fixed>
           <Table.Header>
             <Table.Row>

@@ -288,6 +288,15 @@
         "average": 32.33
     },
     {
+        "name": "Mattias Uvesten",
+        "personId": "2013UVES01",
+        "country": "Sweden",
+        "registration_id": 111,
+        "comments": "Sweden - Gothenburg",
+        "single": 28,
+        "average": 32.67
+    },
+    {
         "name": "Callum Goodyear",
         "personId": "2012GOOD02",
         "country": "United Kingdom",
@@ -504,6 +513,15 @@
         "average": 38.67
     },
     {
+        "name": "Hussain Iqbal",
+        "personId": "2016IQBA01",
+        "country": "United Kingdom",
+        "registration_id": 109,
+        "comments": "United Kingdom - London",
+        "single": 31,
+        "average": 39.33
+    },
+    {
         "name": "Alessandro Nicol\u00ec",
         "personId": "2012NICO02",
         "country": "Italy",
@@ -594,6 +612,15 @@
         "average": 45.67
     },
     {
+        "name": "Claudio Bentivoglio",
+        "personId": "2014BENT01",
+        "country": "Italy",
+        "registration_id": 112,
+        "comments": "Italy - Milano",
+        "single": 30,
+        "average": 46.33
+    },
+    {
         "name": "Ronald Mansveld",
         "personId": "2015MANS04",
         "country": "Netherlands",
@@ -680,6 +707,15 @@
         "country": "Italy",
         "registration_id": 86,
         "comments": "Italy - Monterotondo",
+        "single": 33,
+        "average": 999
+    },
+    {
+        "name": "Ivo Bakker",
+        "personId": "2009BAKK01",
+        "country": "Netherlands",
+        "registration_id": 110,
+        "comments": "Netherlands - Zeewolde",
         "single": 33,
         "average": 999
     },
@@ -878,7 +914,7 @@
         "country": "Slovenia",
         "registration_id": 97,
         "comments": "Slovenia - Maribor",
-        "single": 0,
+        "single": 999,
         "average": 999
     },
     {
@@ -887,7 +923,7 @@
         "country": "Netherlands",
         "registration_id": 64,
         "comments": "Netherlands - Zeewolde",
-        "single": 0,
+        "single": 999,
         "average": 999
     },
     {
@@ -896,7 +932,7 @@
         "country": "Croatia",
         "registration_id": 105,
         "comments": "Croatia - Zagreb",
-        "single": 0,
+        "single": 999,
         "average": 999
     },
     {
@@ -905,7 +941,7 @@
         "country": "Italy",
         "registration_id": 76,
         "comments": "Italy - Milano",
-        "single": 0,
+        "single": 999,
         "average": 999
     },
     {
@@ -914,7 +950,7 @@
         "country": "Italy",
         "registration_id": 87,
         "comments": "Italy - Monterotondo",
-        "single": 0,
+        "single": 999,
         "average": 999
     },
     {
@@ -923,7 +959,7 @@
         "country": "United Kingdom",
         "registration_id": 7,
         "comments": "United Kingdom - London",
-        "single": 0,
+        "single": 999,
         "average": 999
     },
     {
@@ -932,7 +968,7 @@
         "country": "Ukraine",
         "registration_id": 98,
         "comments": "Germany - Regensburg",
-        "single": 0,
+        "single": 999,
         "average": 999
     },
     {
@@ -941,7 +977,7 @@
         "country": "Italy",
         "registration_id": 89,
         "comments": "Italy - Monterotondo",
-        "single": 0,
+        "single": 999,
         "average": 999
     },
     {
@@ -950,7 +986,7 @@
         "country": "Finland",
         "registration_id": 85,
         "comments": "Finland - Helsinki",
-        "single": 0,
+        "single": 999,
         "average": 999
     },
     {
@@ -959,7 +995,7 @@
         "country": "Ukraine",
         "registration_id": 106,
         "comments": "Ukraine - Dnepr",
-        "single": 0,
+        "single": 999,
         "average": 999
     },
     {
@@ -968,7 +1004,7 @@
         "country": "Netherlands",
         "registration_id": 8,
         "comments": "Netherlands - Zeewolde",
-        "single": 0,
+        "single": 999,
         "average": 999
     }
 ]

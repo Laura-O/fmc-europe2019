@@ -204,6 +204,18 @@
     "fullname": "Romania - Bucharest"
   },
   {
+    "lat": "50.581538",
+    "lng": "36.577439",
+    "country": "Russia",
+    "city": "Belgorod",
+    "address": "5 August St. 34, Chess Club",
+    "delegate": "Andrey Robota",
+    "fee": "150 RUB",
+    "info": "",
+    "timezone": "UTC+3",
+    "fullname": "Russia - Belgorod"
+  },
+  {
     "lat": "55.12357",
     "lng": "61.433764",
     "country": "Russia",
@@ -212,7 +224,7 @@
     "delegate": "Vasily Stasyev",
     "fee": "300 RUB",
     "info": "",
-    "timezone": "UTC+1",
+    "timezone": "UTC+5",
     "fullname": "Russia - Chelyabinsk"
   },
   {

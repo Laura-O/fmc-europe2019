@@ -200,6 +200,14 @@
         "average": 29.67
     },
     {
+        "name": "Antoine Piau",
+        "personId": "2008PIAU01",
+        "country": "France",
+        "comments": "France - Lyon",
+        "single": 25,
+        "average": 30.33
+    },
+    {
         "name": "William Gan Wei Ren",
         "personId": "2014RENW01",
         "country": "Malaysia",
@@ -344,6 +352,14 @@
         "average": 34.0
     },
     {
+        "name": "Anders Berggren",
+        "personId": "2011BERG02",
+        "country": "Sweden",
+        "comments": "Sweden - Gothenburg",
+        "single": 28,
+        "average": 34.33
+    },
+    {
         "name": "Lorenzo Vigani Poli",
         "personId": "2007POLI01",
         "country": "Italy",
@@ -374,6 +390,22 @@
         "comments": "Italy - Milano",
         "single": 32,
         "average": 34.67
+    },
+    {
+        "name": "Hippolyte Moreau",
+        "personId": "2008MORE02",
+        "country": "France",
+        "comments": "France - Lyon",
+        "single": 28,
+        "average": 35.0
+    },
+    {
+        "name": "Ivan Lew Yi Wen",
+        "personId": "2012WENI01",
+        "country": "Malaysia",
+        "comments": "United Kingdom - Guildford",
+        "single": 30,
+        "average": 35.33
     },
     {
         "name": "Matteo Colombo",
@@ -424,6 +456,14 @@
         "average": 37.67
     },
     {
+        "name": "Fredrik Trondhjem",
+        "personId": "2011TRON01",
+        "country": "Denmark",
+        "comments": "Denmark - M\u00e5l\u00f8v",
+        "single": 33,
+        "average": 38.33
+    },
+    {
         "name": "Jernej Omulec",
         "personId": "2010OMUL01",
         "country": "Slovenia",
@@ -461,6 +501,14 @@
         "country": "United Kingdom",
         "comments": "United Kingdom - London",
         "single": 31,
+        "average": 39.33
+    },
+    {
+        "name": "Sergey Churilov",
+        "personId": "2016CHUR03",
+        "country": "Russia",
+        "comments": "Russia - Belgorod",
+        "single": 35,
         "average": 39.33
     },
     {
@@ -792,6 +840,22 @@
         "average": 999
     },
     {
+        "name": "Bohdan Shapovalov",
+        "personId": "2017SHAP01",
+        "country": "Ukraine",
+        "comments": "Ukraine - Dnepr",
+        "single": 55,
+        "average": 999
+    },
+    {
+        "name": "Federico Rinalduzzi",
+        "personId": "2015RINA01",
+        "country": "Italy",
+        "comments": "Italy - Monterotondo",
+        "single": 55,
+        "average": 999
+    },
+    {
         "name": "\u0141ukasz Burchard",
         "personId": "2016BURC01",
         "country": "Poland",
@@ -860,6 +924,14 @@
         "personId": "2016IEZZ01",
         "country": "Italy",
         "comments": "Italy - Monterotondo",
+        "single": 999,
+        "average": 999
+    },
+    {
+        "name": "Jacob Berging",
+        "personId": "2014BERG06",
+        "country": "Sweden",
+        "comments": "Sweden - Gothenburg",
         "single": 999,
         "average": 999
     },

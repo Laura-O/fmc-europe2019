@@ -76,7 +76,7 @@
     "lng": "12.096944",
     "country": "Germany",
     "city": "Regensburg",
-    "address": "Will be announced later",
+    "address": "Ostengasse 27, 93047 Regensburg",
     "delegate": "Linus Frész",
     "fee": "Will be announced later",
     "info": "",
@@ -118,6 +118,18 @@
     "info": "",
     "timezone": "UTC+1",
     "fullname": "Italy - Monterotondo"
+  },
+  {
+    "lat": "45.076015",
+    "lng": "11.785569",
+    "country": "Italy",
+    "city": "Rovigo",
+    "address": "Private Address",
+    "delegate": "Simone Cantarelli",
+    "fee": "free",
+    "info": "",
+    "timezone": "UTC+1",
+    "fullname": "Italy - Rovigo"
   },
   {
     "lat": "56.95",
@@ -178,6 +190,18 @@
     "info": "",
     "timezone": "UTC+1",
     "fullname": "Poland - Dąbrowa Górnicza"
+  },
+  {
+    "lat": "54.428745",
+    "lng": "18.590216",
+    "country": "Poland",
+    "city": "Gdańsk",
+    "address": "Jelitkowska 20 str. 80-342 Gdańsk",
+    "delegate": "Adam Polkowski",
+    "fee": "5 PLN",
+    "info": "",
+    "timezone": "UTC+1",
+    "fullname": "Poland - Gdańsk"
   },
   {
     "lat": "47.746111",

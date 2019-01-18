@@ -64,11 +64,15 @@ const Icon = styled.div`
     cursor: pointer;
   }
 
-  span {
+  .title {
       float: left;
       text-align: left;
       padding-left: 5px;
-    }
+  }
+
+  .title:hover {
+    font-weight: 600;
+  }
 
   
   @media only screen and (max-width: 1024px) {
@@ -109,6 +113,7 @@ const NavItem = styled.li`
 
   a:hover {
     color: #000000;
+    font-weight: 500;
   }
 
   a:after {
@@ -157,11 +162,11 @@ class Header extends Component {
         <Icon>
           <Cube />
           <Link to="/">
-            <span>FMC Europe 2019</span>
+            <span className="title">FMC Europe 2019</span>
           </Link>
         </Icon>
         <NavList>
-        <NavItem>
+          <NavItem>
             <Link to="/#NewsSection">News</Link>
           </NavItem>
           <NavItem>

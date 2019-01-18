@@ -94,10 +94,14 @@ const CompetitorsWrapper = styled(ContentWrapper)`
   }
 `
 
+
 export default class Competition extends React.Component {
   render() {
-    const { id, city, country, delegate, email, info, address, fee, timezone, lat, lng, localCompetitors } = this.props
+    const { id, city, country, delegate, email, info, address, fee, timezone, lat, lng } = this.props;
     const mapsURL = "https://www.google.com/maps/search/?api=1&query=";
+
+    let localCompetitors = this.props.localCompetitors;
+    localCompetitors.sort((a,b) => (a.node.name > b.node.name) ? 1 : ((b.node.name > a.node.name) ? -1 : 0));
 
     return (
       <CompetitionWrapper id={id}>
@@ -132,7 +136,7 @@ export default class Competition extends React.Component {
             <ul>
               {
                 localCompetitors.map(competitor => (
-                  <li>{competitor.node.name}</li>
+                  <li key={competitor.node.name}>{competitor.node.name}</li>
                 ))
               }
             {localCompetitors.length <= 0 &&

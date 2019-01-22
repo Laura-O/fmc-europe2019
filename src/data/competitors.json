@@ -16,6 +16,14 @@
         "average": 24.0
     },
     {
+        "name": "Harry Savage",
+        "personId": "2013SAVA01",
+        "country": "United Kingdom",
+        "comments": "United Kingdom - London",
+        "single": 17,
+        "average": 24.33
+    },
+    {
         "name": "Marcel Peters",
         "personId": "2012PETE03",
         "country": "Germany",
@@ -30,6 +38,22 @@
         "comments": "Denmark - M\u00e5l\u00f8v",
         "single": 20,
         "average": 24.67
+    },
+    {
+        "name": "Robert Yau",
+        "personId": "2009YAUR01",
+        "country": "United Kingdom",
+        "comments": "United Kingdom - London",
+        "single": 19,
+        "average": 25.0
+    },
+    {
+        "name": "Fabio Schwandt",
+        "personId": "2014SCHW02",
+        "country": "United Kingdom",
+        "comments": "United Kingdom - London",
+        "single": 20,
+        "average": 25.0
     },
     {
         "name": "Linus Fr\u00e9sz",
@@ -48,27 +72,11 @@
         "average": 26.0
     },
     {
-        "name": "Harry Savage",
-        "personId": "2013SAVA01",
-        "country": "United Kingdom",
-        "comments": "United Kingdom - London",
-        "single": 22,
-        "average": 26.0
-    },
-    {
         "name": "Daniel Sheppard",
         "personId": "2009SHEP01",
         "country": "United Kingdom",
         "comments": "United Kingdom - London",
         "single": 22,
-        "average": 26.33
-    },
-    {
-        "name": "Robert Yau",
-        "personId": "2009YAUR01",
-        "country": "United Kingdom",
-        "comments": "United Kingdom - London",
-        "single": 23,
         "average": 26.33
     },
     {
@@ -86,14 +94,6 @@
         "comments": "Germany - Regensburg",
         "single": 24,
         "average": 27.67
-    },
-    {
-        "name": "Fabio Schwandt",
-        "personId": "2014SCHW02",
-        "country": "United Kingdom",
-        "comments": "United Kingdom - London",
-        "single": 23,
-        "average": 28.0
     },
     {
         "name": "Jakob Gunnarsson",
@@ -600,6 +600,14 @@
         "average": 41.67
     },
     {
+        "name": "Mengfei Shen",
+        "personId": "2018SHEN07",
+        "country": "China",
+        "comments": "United Kingdom - London",
+        "single": 36,
+        "average": 42.0
+    },
+    {
         "name": "Thomas Sonnenberg Jarner",
         "personId": "2017JARN01",
         "country": "Denmark",
@@ -614,14 +622,6 @@
         "comments": "Germany - Regensburg",
         "single": 30,
         "average": 42.67
-    },
-    {
-        "name": "Mengfei Shen",
-        "personId": "2018SHEN07",
-        "country": "China",
-        "comments": "United Kingdom - London",
-        "single": 36,
-        "average": 43.0
     },
     {
         "name": "J\u0101nis Zirnis",
@@ -645,6 +645,14 @@
         "country": "Denmark",
         "comments": "Denmark - Odense",
         "single": 33,
+        "average": 45.33
+    },
+    {
+        "name": "Marcus Siu",
+        "personId": "2016SIUM01",
+        "country": "United Kingdom",
+        "comments": "United Kingdom - London",
+        "single": 38,
         "average": 45.33
     },
     {
@@ -704,6 +712,14 @@
         "average": 47.33
     },
     {
+        "name": "Andy Nicholls",
+        "personId": "2015NICH04",
+        "country": "United Kingdom",
+        "comments": "United Kingdom - Guildford",
+        "single": 40,
+        "average": 47.67
+    },
+    {
         "name": "Marco Syfrig",
         "personId": "2015SYFR01",
         "country": "Switzerland",
@@ -742,6 +758,14 @@
         "comments": "Russia - Chelyabinsk",
         "single": 50,
         "average": 72.33
+    },
+    {
+        "name": "Bas Verseveldt",
+        "personId": "2012VERS03",
+        "country": "Netherlands",
+        "comments": "Netherlands - Zeewolde",
+        "single": 28,
+        "average": 999
     },
     {
         "name": "Federico Borgogni",
@@ -856,14 +880,6 @@
         "average": 999
     },
     {
-        "name": "Andy Nicholls",
-        "personId": "2015NICH04",
-        "country": "United Kingdom",
-        "comments": "United Kingdom - Guildford",
-        "single": 42,
-        "average": 999
-    },
-    {
         "name": "\u0130skender Aznavur",
         "personId": "2013AZNA01",
         "country": "Turkey",
@@ -916,6 +932,14 @@
         "personId": "2017KRAV01",
         "country": "Russia",
         "comments": "Russia - Belgorod",
+        "single": 51,
+        "average": 999
+    },
+    {
+        "name": "Elise Pointurier",
+        "personId": "2017POIN01",
+        "country": "France",
+        "comments": "France - Lyon",
         "single": 51,
         "average": 999
     },
@@ -996,6 +1020,14 @@
         "personId": "2009KOBA03",
         "country": "Slovenia",
         "comments": "Slovenia - Maribor",
+        "single": 999,
+        "average": 999
+    },
+    {
+        "name": "Christiaan Paans",
+        "personId": "2016PAAN01",
+        "country": "Netherlands",
+        "comments": "Netherlands - Zeewolde",
         "single": 999,
         "average": 999
     },

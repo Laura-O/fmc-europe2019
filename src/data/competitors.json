@@ -163,7 +163,7 @@
         "name": "Ben Coppin",
         "personId": "2013COPP01",
         "country": "United Kingdom",
-        "comments": "United Kingdom - East Midlands",
+        "comments": "United Kingdom - Ely",
         "single": 20,
         "average": 29.0
     },
@@ -243,7 +243,7 @@
         "name": "William Gan Wei Ren",
         "personId": "2014RENW01",
         "country": "Malaysia",
-        "comments": "United Kingdom - East Midlands",
+        "comments": "United Kingdom - Ely",
         "single": 28,
         "average": 30.33
     },
@@ -360,6 +360,14 @@
         "average": 33.67
     },
     {
+        "name": "Adrian Estrada",
+        "personId": "2010ESTR01",
+        "country": "Peru",
+        "comments": "Italy - Milano",
+        "single": 31,
+        "average": 33.67
+    },
+    {
         "name": "Lorenzo Mauro",
         "personId": "2014MAUR06",
         "country": "Italy",
@@ -371,7 +379,7 @@
         "name": "Sam Spendla",
         "personId": "2015SPEN01",
         "country": "United Kingdom",
-        "comments": "United Kingdom - East Midlands",
+        "comments": "United Kingdom - Ely",
         "single": 33,
         "average": 33.67
     },
@@ -480,6 +488,14 @@
         "average": 37.0
     },
     {
+        "name": "Helmer Ewert",
+        "personId": "2015EWER01",
+        "country": "Sweden",
+        "comments": "Sweden - Gothenburg",
+        "single": 28,
+        "average": 37.33
+    },
+    {
         "name": "Nikita Kovalchuk",
         "personId": "2015KOVA07",
         "country": "Ukraine",
@@ -523,7 +539,7 @@
         "name": "Bertie Longden",
         "personId": "2014LONG06",
         "country": "United Kingdom",
-        "comments": "United Kingdom - East Midlands",
+        "comments": "United Kingdom - Ely",
         "single": 27,
         "average": 38.67
     },
@@ -632,6 +648,22 @@
         "average": 43.33
     },
     {
+        "name": "Alfred Saidlo",
+        "personId": "2014SAID02",
+        "country": "Estonia",
+        "comments": "Estonia - Tartu",
+        "single": 35,
+        "average": 43.33
+    },
+    {
+        "name": "Ruslan Chayka",
+        "personId": "2013CHAY01",
+        "country": "Russia",
+        "comments": "Russia - Belgorod",
+        "single": 36,
+        "average": 43.67
+    },
+    {
         "name": "Simone Cantarelli",
         "personId": "2012CANT02",
         "country": "Italy",
@@ -701,6 +733,14 @@
         "country": "Finland",
         "comments": "Finland - Helsinki",
         "single": 38,
+        "average": 47.33
+    },
+    {
+        "name": "Andrey Robota",
+        "personId": "2012ROBO02",
+        "country": "Russia",
+        "comments": "Russia - Belgorod",
+        "single": 39,
         "average": 47.33
     },
     {
@@ -792,6 +832,14 @@
         "average": 999
     },
     {
+        "name": "Micha\u0142 Mlostek",
+        "personId": "2015MLOS01",
+        "country": "Poland",
+        "comments": "Poland - D\u0105browa G\u00f3rnicza",
+        "single": 33,
+        "average": 999
+    },
+    {
         "name": "Maksym Kashliatskyi",
         "personId": "2014KASH02",
         "country": "Ukraine",
@@ -805,6 +853,14 @@
         "country": "Lithuania",
         "comments": "Lithuania - Vilnius",
         "single": 36,
+        "average": 999
+    },
+    {
+        "name": "Axel Aronsson",
+        "personId": "2015ARON01",
+        "country": "Sweden",
+        "comments": "Sweden - Gothenburg",
+        "single": 37,
         "average": 999
     },
     {
@@ -899,7 +955,7 @@
         "name": "Christopher Morris",
         "personId": "2013MORR03",
         "country": "United Kingdom",
-        "comments": "United Kingdom - East Midlands",
+        "comments": "United Kingdom - Ely",
         "single": 45,
         "average": 999
     },
@@ -1096,6 +1152,14 @@
         "average": 999
     },
     {
+        "name": "Mohamed Ba Ndour",
+        "personId": "2017NDOU01",
+        "country": "Spain",
+        "comments": "United Kingdom - Ely",
+        "single": 999,
+        "average": 999
+    },
+    {
         "name": "Urho Kinnunen",
         "personId": "2018KINN05",
         "country": "Finland",
@@ -1108,6 +1172,14 @@
         "personId": "2018BORY01",
         "country": "Ukraine",
         "comments": "Ukraine - Dnepr",
+        "single": 999,
+        "average": 999
+    },
+    {
+        "name": "Xieben Zou",
+        "personId": "2018ZOUX03",
+        "country": "China",
+        "comments": "Germany - Dortmund",
         "single": 999,
         "average": 999
     },

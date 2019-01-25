@@ -78,7 +78,7 @@
     "city": "Regensburg",
     "address": "Ostengasse 27, 93047 Regensburg",
     "delegate": "Linus Frész",
-    "fee": "Will be announced later",
+    "fee": "5 Euro",
     "info": "",
     "timezone": "UTC+1",
     "fullname": "Germany - Regensburg"
@@ -94,6 +94,18 @@
     "info": "",
     "timezone": "UTC+1",
     "fullname": "Germany - Dortmund"
+  },
+  {
+    "lat": "37.983972",
+    "lng": "23.727806",
+    "country": "Greece",
+    "city": "Athens",
+    "address": "Will be announced later",
+    "delegate": "Dimitris Passas",
+    "fee": "5 Euro",
+    "info": "",
+    "timezone": "UTC+2",
+    "fullname": "Greece - Athens"
   },
   {
     "lat": "45.479775",

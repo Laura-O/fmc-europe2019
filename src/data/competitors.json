@@ -160,11 +160,27 @@
         "average": 28.67
     },
     {
+        "name": "Szymon Jeziorski",
+        "personId": "2013JEZI01",
+        "country": "Poland",
+        "comments": "Poland - D\u0105browa G\u00f3rnicza",
+        "single": 19,
+        "average": 29.0
+    },
+    {
         "name": "Ben Coppin",
         "personId": "2013COPP01",
         "country": "United Kingdom",
         "comments": "United Kingdom - Ely",
         "single": 20,
+        "average": 29.0
+    },
+    {
+        "name": "Jan Zych",
+        "personId": "2014ZYCH01",
+        "country": "Poland",
+        "comments": "Poland - D\u0105browa G\u00f3rnicza",
+        "single": 26,
         "average": 29.0
     },
     {
@@ -182,14 +198,6 @@
         "comments": "Romania - Boto\u015fani",
         "single": 28,
         "average": 29.0
-    },
-    {
-        "name": "Szymon Jeziorski",
-        "personId": "2013JEZI01",
-        "country": "Poland",
-        "comments": "Poland - D\u0105browa G\u00f3rnicza",
-        "single": 19,
-        "average": 29.33
     },
     {
         "name": "Daniel Wallin",
@@ -253,6 +261,14 @@
         "country": "Russia",
         "comments": "Switzerland - Z\u00fcrich",
         "single": 26,
+        "average": 30.67
+    },
+    {
+        "name": "Karol Zakrzewski",
+        "personId": "2014ZAKR01",
+        "country": "Poland",
+        "comments": "Poland - D\u0105browa G\u00f3rnicza",
+        "single": 28,
         "average": 30.67
     },
     {
@@ -326,14 +342,6 @@
         "comments": "United Kingdom - London",
         "single": 31,
         "average": 33.0
-    },
-    {
-        "name": "Jan Zych",
-        "personId": "2014ZYCH01",
-        "country": "Poland",
-        "comments": "Poland - D\u0105browa G\u00f3rnicza",
-        "single": 28,
-        "average": 33.33
     },
     {
         "name": "Alban Reynaud",
@@ -456,20 +464,20 @@
         "average": 35.33
     },
     {
+        "name": "Conor Cronin",
+        "personId": "2013CRON01",
+        "country": "South Africa",
+        "comments": "United Kingdom - London",
+        "single": 34,
+        "average": 35.67
+    },
+    {
         "name": "Matteo Colombo",
         "personId": "2009COLO03",
         "country": "Italy",
         "comments": "Italy - Milano",
         "single": 32,
         "average": 36.67
-    },
-    {
-        "name": "Karol Zakrzewski",
-        "personId": "2014ZAKR01",
-        "country": "Poland",
-        "comments": "Poland - D\u0105browa G\u00f3rnicza",
-        "single": 28,
-        "average": 37.0
     },
     {
         "name": "Robin Verstraten",
@@ -598,6 +606,14 @@
         "comments": "Switzerland - Z\u00fcrich",
         "single": 33,
         "average": 40.33
+    },
+    {
+        "name": "Alwin R\u00f6lz",
+        "personId": "2016ROLZ01",
+        "country": "Switzerland",
+        "comments": "Germany - Regensburg",
+        "single": 37,
+        "average": 40.67
     },
     {
         "name": "Alex Kekkonen",
@@ -1032,6 +1048,14 @@
         "average": 999
     },
     {
+        "name": "Mat\u012bss Maksis Podinskis",
+        "personId": "2018PODI02",
+        "country": "Latvia",
+        "comments": "Latvia - R\u012bga",
+        "single": 63,
+        "average": 999
+    },
+    {
         "name": "Jan Erik Soosaar",
         "personId": "2016SOOS01",
         "country": "Estonia",
@@ -1144,6 +1168,14 @@
         "average": 999
     },
     {
+        "name": "Lajla Imsirovic",
+        "personId": "",
+        "country": "Austria",
+        "comments": "Slovenia - Maribor",
+        "single": 999,
+        "average": 999
+    },
+    {
         "name": "Leonid Palchenko",
         "personId": "2016PALC02",
         "country": "Ukraine",
@@ -1156,6 +1188,14 @@
         "personId": "2017NDOU01",
         "country": "Spain",
         "comments": "United Kingdom - Ely",
+        "single": 999,
+        "average": 999
+    },
+    {
+        "name": "Tarik Imsirovic",
+        "personId": "",
+        "country": "Austria",
+        "comments": "Slovenia - Maribor",
         "single": 999,
         "average": 999
     },

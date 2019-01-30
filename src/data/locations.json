@@ -108,6 +108,18 @@
     "fullname": "Greece - Athens"
   },
   {
+    "lat": "47.511314",
+    "lng": "19.054535",
+    "country": "Hungary",
+    "city": "Budapest",
+    "address": "Nyugati tér 9.",
+    "delegate": "Niki Placskó",
+    "fee": "free",
+    "info": "",
+    "timezone": "UTC+1",
+    "fullname": "Hungary - Budapest"
+  },
+  {
     "lat": "45.479775",
     "lng": "9.226997",
     "country": "Italy",
@@ -228,13 +240,13 @@
     "fullname": "Romania - Botoşani"
   },
   {
-    "lat": "44.433333",
-    "lng": "26.1",
+    "lat": "44.473959",
+    "lng": "26.0629913",
     "country": "Romania",
     "city": "Bucharest",
-    "address": "Will be announced later",
+    "address": "Bulevardul Expoziției 1B, Sector 1, București 012101",
     "delegate": "Mihai Capatinescu",
-    "fee": "Will be announced later",
+    "fee": "5 EUR",
     "info": "",
     "timezone": "UTC+2",
     "fullname": "Romania - Bucharest"
@@ -264,11 +276,11 @@
     "fullname": "Russia - Chelyabinsk"
   },
   {
-    "lat": "46.554722",
-    "lng": "15.646667",
+    "lat": "46.541528",
+    "lng": "15.6334887",
     "country": "Slovenia",
     "city": "Maribor",
-    "address": "Will be announced later",
+    "address": "Kardeljeva 73, 2000 Maribor",
     "delegate": "Petra Kobal Vogrinec",
     "fee": "free",
     "info": "",

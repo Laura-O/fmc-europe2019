@@ -288,16 +288,28 @@
     "fullname": "Slovenia - Maribor"
   },
   {
-    "lat": "57.706111",
-    "lng": "11.953611",
+    "lat": "57.776179",
+    "lng": "12.266428",
     "country": "Sweden",
     "city": "Gothenburg (<25 km from city center)",
     "address": "Will be announced later",
-    "delegate": "Daniel Wallin + Anders Berggren",
-    "fee": "Will be announced later",
+    "delegate": "Anders Berggren",
+    "fee": "Free",
     "info": "",
     "timezone": "UTC+1",
     "fullname": "Sweden - Gothenburg"
+  },
+  {
+    "lat": "59.211071",
+    "lng": "17.903202",
+    "country": "Sweden",
+    "city": "Tullinge",
+    "address": "Månstorpsvägen 4, 146 45 Tullinge",
+    "delegate": "Daniel Wallin",
+    "fee": "Free",
+    "info": "",
+    "timezone": "UTC+1",
+    "fullname": "Sweden - Tullinge"
   },
   {
     "lat": "47.408762",

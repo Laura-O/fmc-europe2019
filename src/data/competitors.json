@@ -115,8 +115,16 @@
         "name": "Jakob Gunnarsson",
         "personId": "2015GUNN01",
         "country": "Sweden",
-        "comments": "Sweden - Gothenburg",
+        "comments": "Sweden - Lerum",
         "single": 23,
+        "average": 28.0
+    },
+    {
+        "name": "Aleksandr Beznogov",
+        "personId": "2017BEZN01",
+        "country": "Russia",
+        "comments": "Finland - Helsinki",
+        "single": 24,
         "average": 28.0
     },
     {
@@ -139,7 +147,7 @@
         "name": "Theodor Nordstrand",
         "personId": "2016NORD02",
         "country": "Sweden",
-        "comments": "Sweden - Gothenburg",
+        "comments": "Sweden - Lerum",
         "single": 26,
         "average": 28.33
     },
@@ -157,14 +165,6 @@
         "country": "Hungary",
         "comments": "Hungary - Budapest",
         "single": 23,
-        "average": 28.67
-    },
-    {
-        "name": "Aleksandr Beznogov",
-        "personId": "2017BEZN01",
-        "country": "Russia",
-        "comments": "Finland - Helsinki",
-        "single": 24,
         "average": 28.67
     },
     {
@@ -227,7 +227,7 @@
         "name": "Daniel Wallin",
         "personId": "2013WALL03",
         "country": "Sweden",
-        "comments": "Sweden - Gothenburg",
+        "comments": "Sweden - Tullinge",
         "single": 24,
         "average": 29.33
     },
@@ -336,6 +336,14 @@
         "average": 31.67
     },
     {
+        "name": "Oliver Frost",
+        "personId": "2012FROS01",
+        "country": "United Kingdom",
+        "comments": "United Kingdom - London",
+        "single": 27,
+        "average": 31.67
+    },
+    {
         "name": "Juliette S\u00e9bastien",
         "personId": "2014SEBA01",
         "country": "France",
@@ -379,7 +387,7 @@
         "name": "Mattias Uvesten",
         "personId": "2013UVES01",
         "country": "Sweden",
-        "comments": "Sweden - Gothenburg",
+        "comments": "Sweden - Lerum",
         "single": 28,
         "average": 32.67
     },
@@ -389,6 +397,14 @@
         "country": "Denmark",
         "comments": "Denmark - Odense",
         "single": 28,
+        "average": 32.67
+    },
+    {
+        "name": "Micha\u0142 Krasowski",
+        "personId": "2013KRAS02",
+        "country": "Poland",
+        "comments": "Poland - D\u0105browa G\u00f3rnicza",
+        "single": 30,
         "average": 32.67
     },
     {
@@ -475,7 +491,7 @@
         "name": "Anders Berggren",
         "personId": "2011BERG02",
         "country": "Sweden",
-        "comments": "Sweden - Gothenburg",
+        "comments": "Sweden - Lerum",
         "single": 28,
         "average": 34.33
     },
@@ -587,7 +603,7 @@
         "name": "Helmer Ewert",
         "personId": "2015EWER01",
         "country": "Sweden",
-        "comments": "Sweden - Gothenburg",
+        "comments": "Sweden - Lerum",
         "single": 28,
         "average": 37.33
     },
@@ -606,6 +622,14 @@
         "comments": "Ukraine - Dnepr",
         "single": 34,
         "average": 37.67
+    },
+    {
+        "name": "Fedor Abaev",
+        "personId": "2016ABAE01",
+        "country": "Russia",
+        "comments": "Russia - Belgorod",
+        "single": 28,
+        "average": 38.0
     },
     {
         "name": "Fredrik Trondhjem",
@@ -888,12 +912,36 @@
         "average": 51.0
     },
     {
+        "name": "Sebastian Alanen",
+        "personId": "2015ALAN02",
+        "country": "Sweden",
+        "comments": "Sweden - Tullinge",
+        "single": 44,
+        "average": 51.33
+    },
+    {
         "name": "Petra Kobal Vogrinec",
         "personId": "2010VOGR01",
         "country": "Slovenia",
         "comments": "Slovenia - Maribor",
         "single": 46,
         "average": 51.33
+    },
+    {
+        "name": "D\u00e1niel Nyikos",
+        "personId": "2016NYIK01",
+        "country": "Hungary",
+        "comments": "Hungary - Budapest",
+        "single": 45,
+        "average": 52.0
+    },
+    {
+        "name": "Barna \u0150ri",
+        "personId": "2016RIBA01",
+        "country": "Hungary",
+        "comments": "Hungary - Budapest",
+        "single": 48,
+        "average": 52.33
     },
     {
         "name": "Gianluca Placenti",
@@ -925,6 +973,14 @@
         "country": "Italy",
         "comments": "Italy - Milano",
         "single": 28,
+        "average": 999
+    },
+    {
+        "name": "Mateusz Szulik",
+        "personId": "2017SZUL01",
+        "country": "Poland",
+        "comments": "Poland - D\u0105browa G\u00f3rnicza",
+        "single": 31,
         "average": 999
     },
     {
@@ -995,7 +1051,7 @@
         "name": "Axel Aronsson",
         "personId": "2015ARON01",
         "country": "Sweden",
-        "comments": "Sweden - Gothenburg",
+        "comments": "Sweden - Lerum",
         "single": 37,
         "average": 999
     },
@@ -1069,6 +1125,14 @@
         "country": "Netherlands",
         "comments": "Netherlands - Zeewolde",
         "single": 41,
+        "average": 999
+    },
+    {
+        "name": "Leo Lindqvist",
+        "personId": "2017LIND01",
+        "country": "Sweden",
+        "comments": "Sweden - Tullinge",
+        "single": 42,
         "average": 999
     },
     {
@@ -1320,10 +1384,18 @@
         "average": 999
     },
     {
+        "name": "Guillermo Concha",
+        "personId": "",
+        "country": "Spain",
+        "comments": "Germany - Regensburg",
+        "single": 999,
+        "average": 999
+    },
+    {
         "name": "Jacob Berging",
         "personId": "2014BERG06",
         "country": "Sweden",
-        "comments": "Sweden - Gothenburg",
+        "comments": "Sweden - Lerum",
         "single": 999,
         "average": 999
     },

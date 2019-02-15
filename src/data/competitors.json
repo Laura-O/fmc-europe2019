@@ -1184,6 +1184,14 @@
         "average": 999
     },
     {
+        "name": "Mihkel Ilves",
+        "personId": "2015ILVE01",
+        "country": "Estonia",
+        "comments": "Estonia - Tartu",
+        "single": 38,
+        "average": 999
+    },
+    {
         "name": "Timon Veurink",
         "personId": "2017VEUR01",
         "country": "Netherlands",
@@ -1317,6 +1325,14 @@
         "country": "Switzerland",
         "comments": "Switzerland - Z\u00fcrich",
         "single": 51,
+        "average": 999
+    },
+    {
+        "name": "Maximilian Berkmann",
+        "personId": "2014BERK02",
+        "country": "United Kingdom",
+        "comments": "United Kingdom - London",
+        "single": 52,
         "average": 999
     },
     {
@@ -1547,6 +1563,14 @@
         "name": "Mohamed Ba Ndour",
         "personId": "2017NDOU01",
         "country": "Spain",
+        "comments": "United Kingdom - Ely",
+        "single": 999,
+        "average": 999
+    },
+    {
+        "name": "Robert Reed",
+        "personId": "2018REED06",
+        "country": "United Kingdom",
         "comments": "United Kingdom - Ely",
         "single": 999,
         "average": 999

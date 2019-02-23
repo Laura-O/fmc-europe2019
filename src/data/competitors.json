@@ -400,6 +400,14 @@
         "average": 32.33
     },
     {
+        "name": "Jonatan K\u0142osko",
+        "personId": "2013KOSK01",
+        "country": "Poland",
+        "comments": "Poland - D\u0105browa G\u00f3rnicza",
+        "single": 26,
+        "average": 32.67
+    },
+    {
         "name": "Mattias Uvesten",
         "personId": "2013UVES01",
         "country": "Sweden",
@@ -558,6 +566,14 @@
         "comments": "France - Lyon",
         "single": 28,
         "average": 35.0
+    },
+    {
+        "name": "Jakub Bartos",
+        "personId": "2014BART06",
+        "country": "Poland",
+        "comments": "Poland - D\u0105browa G\u00f3rnicza",
+        "single": 26,
+        "average": 35.33
     },
     {
         "name": "Ivan Lew Yi Wen",
@@ -784,6 +800,14 @@
         "average": 41.67
     },
     {
+        "name": "Arttu Puttonen",
+        "personId": "2016PUTT01",
+        "country": "Finland",
+        "comments": "Finland - Helsinki",
+        "single": 36,
+        "average": 41.67
+    },
+    {
         "name": "Mengfei Shen",
         "personId": "2018SHEN07",
         "country": "China",
@@ -862,6 +886,14 @@
         "comments": "Estonia - Tartu",
         "single": 40,
         "average": 44.67
+    },
+    {
+        "name": "Kamil Przybylski",
+        "personId": "2016PRZY01",
+        "country": "Poland",
+        "comments": "Poland - D\u0105browa G\u00f3rnicza",
+        "single": 39,
+        "average": 45.0
     },
     {
         "name": "Mikela Elleby J\u00f8rgensen",
@@ -1024,6 +1056,14 @@
         "average": 52.33
     },
     {
+        "name": "Pawe\u0142 W\u0142oszek",
+        "personId": "2006WLOS01",
+        "country": "Poland",
+        "comments": "Poland - D\u0105browa G\u00f3rnicza",
+        "single": 45,
+        "average": 55.33
+    },
+    {
         "name": "Gianluca Placenti",
         "personId": "2012PLAC01",
         "country": "Italy",
@@ -1125,6 +1165,14 @@
         "country": "Ukraine",
         "comments": "Ukraine - Dnepr",
         "single": 34,
+        "average": 999
+    },
+    {
+        "name": "Kamil Michalak",
+        "personId": "2016MICH01",
+        "country": "Poland",
+        "comments": "Poland - D\u0105browa G\u00f3rnicza",
+        "single": 35,
         "average": 999
     },
     {
@@ -1288,11 +1336,27 @@
         "average": 999
     },
     {
+        "name": "Antto Pitk\u00e4nen",
+        "personId": "2017PITK01",
+        "country": "Finland",
+        "comments": "Finland - Helsinki",
+        "single": 48,
+        "average": 999
+    },
+    {
         "name": "Vilmos Tibor Belkovics",
         "personId": "2017BELK01",
         "country": "Hungary",
         "comments": "Hungary - Budapest",
         "single": 48,
+        "average": 999
+    },
+    {
+        "name": "Acar G\u00f6k",
+        "personId": "2017GOKA01",
+        "country": "Turkey",
+        "comments": "Turkey - \u0130stanbul",
+        "single": 49,
         "average": 999
     },
     {
@@ -1357,6 +1421,14 @@
         "country": "Poland",
         "comments": "Poland - D\u0105browa G\u00f3rnicza",
         "single": 55,
+        "average": 999
+    },
+    {
+        "name": "Yinte Dik",
+        "personId": "2017DIKY01",
+        "country": "Netherlands",
+        "comments": "Netherlands - Zeewolde",
+        "single": 56,
         "average": 999
     },
     {
@@ -1552,6 +1624,14 @@
         "average": 999
     },
     {
+        "name": "Kri\u0161j\u0101nis Nur\u017ea",
+        "personId": "2018NURZ01",
+        "country": "Latvia",
+        "comments": "Latvia - R\u012bga",
+        "single": 999,
+        "average": 999
+    },
+    {
         "name": "Lajla Imsirovic",
         "personId": "2019IMSI01",
         "country": "Austria",
@@ -1636,14 +1716,6 @@
         "personId": "2018ZOUX03",
         "country": "China",
         "comments": "Germany - Dortmund",
-        "single": 999,
-        "average": 999
-    },
-    {
-        "name": "Yinte Dik",
-        "personId": "2017DIKY01",
-        "country": "Netherlands",
-        "comments": "Netherlands - Zeewolde",
         "single": 999,
         "average": 999
     }

@@ -80,6 +80,14 @@
         "average": 26.0
     },
     {
+        "name": "Bence Bar\u00e1t",
+        "personId": "2008BARA01",
+        "country": "Hungary",
+        "comments": "Hungary - Budapest",
+        "single": 22,
+        "average": 26.0
+    },
+    {
         "name": "Daniel Sheppard",
         "personId": "2009SHEP01",
         "country": "United Kingdom",
@@ -325,6 +333,14 @@
         "country": "Hungary",
         "comments": "Hungary - Budapest",
         "single": 25,
+        "average": 31.0
+    },
+    {
+        "name": "Gabriel Marczak",
+        "personId": "2013MARC03",
+        "country": "Poland",
+        "comments": "Poland - D\u0105browa G\u00f3rnicza",
+        "single": 26,
         "average": 31.0
     },
     {
@@ -752,6 +768,14 @@
         "average": 38.67
     },
     {
+        "name": "Witali Bu\u0142atow",
+        "personId": "2015BUAT01",
+        "country": "Poland",
+        "comments": "Poland - D\u0105browa G\u00f3rnicza",
+        "single": 31,
+        "average": 39.0
+    },
+    {
         "name": "Hussain Iqbal",
         "personId": "2016IQBA01",
         "country": "United Kingdom",
@@ -1032,6 +1056,14 @@
         "average": 47.67
     },
     {
+        "name": "Patryk Milewczyk",
+        "personId": "2014MILE01",
+        "country": "Poland",
+        "comments": "Poland - D\u0105browa G\u00f3rnicza",
+        "single": 44,
+        "average": 48.33
+    },
+    {
         "name": "\u00d6mer \u00c7etinkaya",
         "personId": "2013CETI01",
         "country": "Turkey",
@@ -1189,6 +1221,14 @@
         "country": "Poland",
         "comments": "Poland - D\u0105browa G\u00f3rnicza",
         "single": 33,
+        "average": 999
+    },
+    {
+        "name": "George Scholey",
+        "personId": "2015SCHO05",
+        "country": "United Kingdom",
+        "comments": "United Kingdom - London",
+        "single": 34,
         "average": 999
     },
     {
@@ -1576,6 +1616,14 @@
         "average": 999
     },
     {
+        "name": "Can S\u00fct\u00fctemiz",
+        "personId": "2018SUTU01",
+        "country": "Turkey",
+        "comments": "Turkey - \u0130stanbul",
+        "single": 999,
+        "average": 999
+    },
+    {
         "name": "Christiaan Paans",
         "personId": "2016PAAN01",
         "country": "Netherlands",
@@ -1688,14 +1736,6 @@
         "average": 999
     },
     {
-        "name": "Lajla Imsirovic",
-        "personId": "2019IMSI01",
-        "country": "Austria",
-        "comments": "Slovenia - Maribor",
-        "single": 999,
-        "average": 999
-    },
-    {
         "name": "Leonid Palchenko",
         "personId": "2016PALC02",
         "country": "Ukraine",
@@ -1720,6 +1760,14 @@
         "average": 999
     },
     {
+        "name": "Sarah Fluck",
+        "personId": "2018FLUC01",
+        "country": "United Kingdom",
+        "comments": "United Kingdom - London",
+        "single": 999,
+        "average": 999
+    },
+    {
         "name": "Sherkhan-Mukhammad Nasirov",
         "personId": "2017NASI01",
         "country": "Uzbekistan",
@@ -1732,14 +1780,6 @@
         "personId": "",
         "country": "Russia",
         "comments": "Russia - Belgorod",
-        "single": 999,
-        "average": 999
-    },
-    {
-        "name": "Tarik Imsirovic",
-        "personId": "2019IMSI02",
-        "country": "Austria",
-        "comments": "Slovenia - Maribor",
         "single": 999,
         "average": 999
     },

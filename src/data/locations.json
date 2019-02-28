@@ -1,10 +1,10 @@
 [
   {
-    "lat": "45.810278",
-    "lng": "15.978056",
+    "lat": "45.775372",
+    "lng": "15.981557",
     "country": "Croatia",
     "city": "Zagreb",
-    "address": "Will be announced later",
+    "address": "Avenija Većeslava Holjevca 3, 10010 Zagreb",
     "delegate": "Jernej Omulec",
     "fee": "free",
     "info": "",
@@ -336,11 +336,11 @@
     "fullname": "Switzerland - Zürich"
   },
   {
-    "lat": "41.01",
-    "lng": "28.960278",
+    "lat": "41.102963",
+    "lng": "29.027170",
     "country": "Turkey",
     "city": "Istanbul",
-    "address": "Will be announced later",
+    "address": "Gemi İnşaatı ve Deniz Bilimleri Fakültesi, İTÜ Ayazağa Kampüsü,331 No'lu Sosyal Oda, 34469 Maslak/Sarıyer/İstanbul",
     "delegate": "İskender Aznavur",
     "fee": "Will be announced later",
     "info": "",

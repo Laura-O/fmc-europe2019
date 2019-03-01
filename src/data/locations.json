@@ -360,6 +360,18 @@
     "fullname": "Ukraine - Dnepr"
   },
   {
+    "lat": "49.9903488",
+    "lng": "36.2344711",
+    "country": "Ukraine",
+    "city": "Kharkiv",
+    "address": "Korolenka lane 18",
+    "delegate": "Stepan Dzhurylo",
+    "fee": "free",
+    "info": "",
+    "timezone": "UTC+2",
+    "fullname": "Ukraine - Kharkiv"
+  },
+  {
     "lat": "51.2443907",
     "lng": "-0.5885999",
     "country": "United Kingdom",

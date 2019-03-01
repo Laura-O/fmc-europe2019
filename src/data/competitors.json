@@ -288,6 +288,14 @@
         "average": 29.67
     },
     {
+        "name": "Marek Pepke",
+        "personId": "2008PEPK01",
+        "country": "Poland",
+        "comments": "Poland - Gda\u0144sk",
+        "single": 22,
+        "average": 30.33
+    },
+    {
         "name": "Antoine Piau",
         "personId": "2008PIAU01",
         "country": "France",
@@ -372,6 +380,14 @@
         "personId": "2012FROS01",
         "country": "United Kingdom",
         "comments": "United Kingdom - London",
+        "single": 27,
+        "average": 31.67
+    },
+    {
+        "name": "Przemys\u0142aw Rogalski",
+        "personId": "2013ROGA02",
+        "country": "Poland",
+        "comments": "Poland - D\u0105browa G\u00f3rnicza",
         "single": 27,
         "average": 31.67
     },
@@ -960,6 +976,14 @@
         "average": 44.67
     },
     {
+        "name": "Sergio Torrijos Santano",
+        "personId": "2013SANT13",
+        "country": "Spain",
+        "comments": "Spain - Madrid",
+        "single": 35,
+        "average": 45.0
+    },
+    {
         "name": "Jes\u00fas Lindo Garc\u00eda",
         "personId": "2013GARC08",
         "country": "Spain",
@@ -1144,6 +1168,14 @@
         "average": 55.33
     },
     {
+        "name": "Karolina Wi\u0105cek",
+        "personId": "2008WIAC01",
+        "country": "Poland",
+        "comments": "Poland - Gda\u0144sk",
+        "single": 40,
+        "average": 55.67
+    },
+    {
         "name": "Gianluca Placenti",
         "personId": "2012PLAC01",
         "country": "Italy",
@@ -1176,18 +1208,18 @@
         "average": 999
     },
     {
-        "name": "Mateusz Szulik",
-        "personId": "2017SZUL01",
-        "country": "Poland",
-        "comments": "Poland - D\u0105browa G\u00f3rnicza",
-        "single": 31,
-        "average": 999
-    },
-    {
         "name": "Mutlu \u00d6z\u00e7elebi",
         "personId": "2013OZCE01",
         "country": "Turkey",
         "comments": "Turkey - \u0130stanbul",
+        "single": 29,
+        "average": 999
+    },
+    {
+        "name": "Mateusz Szulik",
+        "personId": "2017SZUL01",
+        "country": "Poland",
+        "comments": "Poland - D\u0105browa G\u00f3rnicza",
         "single": 31,
         "average": 999
     },
@@ -1296,6 +1328,14 @@
         "average": 999
     },
     {
+        "name": "Can G\u00fcc\u00fcyener",
+        "personId": "2011GUCU01",
+        "country": "Turkey",
+        "comments": "Turkey - \u0130stanbul",
+        "single": 38,
+        "average": 999
+    },
+    {
         "name": "Carl Emil Exner",
         "personId": "2017EXNE01",
         "country": "Denmark",
@@ -1317,14 +1357,6 @@
         "country": "Estonia",
         "comments": "Estonia - Tartu",
         "single": 38,
-        "average": 999
-    },
-    {
-        "name": "Can G\u00fcc\u00fcyener",
-        "personId": "2011GUCU01",
-        "country": "Turkey",
-        "comments": "Turkey - \u0130stanbul",
-        "single": 39,
         "average": 999
     },
     {
@@ -1448,6 +1480,14 @@
         "average": 999
     },
     {
+        "name": "Mar\u00eda del Mar Gallego Vicente",
+        "personId": "2013VICE01",
+        "country": "Spain",
+        "comments": "Spain - Madrid",
+        "single": 50,
+        "average": 999
+    },
+    {
         "name": "Alex Burns",
         "personId": "2017BURN05",
         "country": "United Kingdom",
@@ -1541,6 +1581,14 @@
         "country": "Ukraine",
         "comments": "Ukraine - Dnepr",
         "single": 67,
+        "average": 999
+    },
+    {
+        "name": "Stepan Dzhurylo",
+        "personId": "2015DZHU01",
+        "country": "Ukraine",
+        "comments": "Ukraine - Kharkiv",
+        "single": 68,
         "average": 999
     },
     {
@@ -1640,6 +1688,14 @@
         "average": 999
     },
     {
+        "name": "Dawid W\u00f3jcik",
+        "personId": "2016WOJC04",
+        "country": "Poland",
+        "comments": "Poland - D\u0105browa G\u00f3rnicza",
+        "single": 999,
+        "average": 999
+    },
+    {
         "name": "Dennis Eijkel",
         "personId": "2012EIJK01",
         "country": "Netherlands",
@@ -1684,6 +1740,14 @@
         "personId": "",
         "country": "Spain",
         "comments": "Germany - Regensburg",
+        "single": 999,
+        "average": 999
+    },
+    {
+        "name": "Iv\u00e1n Brigidano P\u00e9rez",
+        "personId": "2016PERE44",
+        "country": "Spain",
+        "comments": "Spain - Madrid",
         "single": 999,
         "average": 999
     },

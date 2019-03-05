@@ -312,6 +312,14 @@
         "average": 30.33
     },
     {
+        "name": "Artem Melikian",
+        "personId": "2011MELI01",
+        "country": "Ukraine",
+        "comments": "Ukraine - Kharkiv",
+        "single": 26,
+        "average": 30.67
+    },
+    {
         "name": "Oleg Gritsenko",
         "personId": "2011GRIT01",
         "country": "Russia",

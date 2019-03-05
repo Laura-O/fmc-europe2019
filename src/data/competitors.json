@@ -3,7 +3,7 @@
         "name": "Reto Bubendorf",
         "personId": "2012BUBE01",
         "country": "Finland",
-        "comments": "Croatia - Zagreb",
+        "comments": "France - Lyon",
         "single": 21,
         "average": 24.0
     },
@@ -1192,14 +1192,6 @@
         "average": 51.33
     },
     {
-        "name": "D\u00e1niel Nyikos",
-        "personId": "2016NYIK01",
-        "country": "Hungary",
-        "comments": "Hungary - Budapest",
-        "single": 45,
-        "average": 52.0
-    },
-    {
         "name": "Barna \u0150ri",
         "personId": "2016RIBA01",
         "country": "Hungary",
@@ -1724,6 +1716,14 @@
         "personId": "2016PAAN01",
         "country": "Netherlands",
         "comments": "Netherlands - Zeewolde",
+        "single": 999,
+        "average": 999
+    },
+    {
+        "name": "Daniel Evans",
+        "personId": "2016EVAN06",
+        "country": "United Kingdom",
+        "comments": "United Kingdom - Guildford",
         "single": 999,
         "average": 999
     },

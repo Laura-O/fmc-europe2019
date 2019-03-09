@@ -88,9 +88,9 @@
     "lng": "7.463889",
     "country": "Germany",
     "city": "Dortmund",
-    "address": "Will be announced later",
+    "address": "Private address",
     "delegate": "Laura Ohrndorf",
-    "fee": "Will be announced later",
+    "fee": "Free",
     "info": "",
     "timezone": "UTC+1",
     "fullname": "Germany - Dortmund"
@@ -303,13 +303,13 @@
     "lat": "57.766667",
     "lng": "12.3",
     "country": "Sweden",
-    "city": "Gothenburg (<25 km from city center)",
-    "address": "Will be announced later",
+    "city": "Lerum (<25 km from Gothenburg)",
+    "address": "Private address",
     "delegate": "Anders Berggren",
     "fee": "Free",
     "info": "",
     "timezone": "UTC+1",
-    "fullname": "Sweden - Gothenburg"
+    "fullname": "Sweden - Lerum"
   },
   {
     "lat": "59.211071",
@@ -342,10 +342,10 @@
     "city": "Istanbul",
     "address": "Gemi İnşaatı ve Deniz Bilimleri Fakültesi, İTÜ Ayazağa Kampüsü,331 No'lu Sosyal Oda, 34469 Maslak/Sarıyer/İstanbul",
     "delegate": "İskender Aznavur",
-    "fee": "Will be announced later",
+    "fee": "Free",
     "info": "",
     "timezone": "UTC+3",
-    "fullname": "Turkey - Istanbul"
+    "fullname": "Turkey - \u0130stanbul"
   },
   {
     "lat": "48.458775",
@@ -390,7 +390,7 @@
     "city": "Ely",
     "address": "Private address",
     "delegate": "Sam Spendla",
-    "fee": "Will be announced later",
+    "fee": "Free",
     "info": "",
     "timezone": "UTC",
     "fullname": "United Kingdom - Ely"

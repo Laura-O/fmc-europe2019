@@ -96,18 +96,6 @@
     "fullname": "Germany - Dortmund"
   },
   {
-    "lat": "37.983972",
-    "lng": "23.727806",
-    "country": "Greece",
-    "city": "Athens",
-    "address": "Will be announced later",
-    "delegate": "Dimitris Passas",
-    "fee": "5 Euro",
-    "info": "",
-    "timezone": "UTC+2",
-    "fullname": "Greece - Athens"
-  },
-  {
     "lat": "47.511314",
     "lng": "19.054535",
     "country": "Hungary",

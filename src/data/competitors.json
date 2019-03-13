@@ -720,6 +720,14 @@
         "average": 36.0
     },
     {
+        "name": "Kalina Jakubowska",
+        "personId": "2009BRZE01",
+        "country": "Poland",
+        "comments": "Poland - Gda\u0144sk",
+        "single": 31,
+        "average": 36.67
+    },
+    {
         "name": "Robin Verstraten",
         "personId": "2012VERS02",
         "country": "Netherlands",
@@ -982,14 +990,6 @@
         "comments": "Germany - Regensburg",
         "single": 30,
         "average": 42.67
-    },
-    {
-        "name": "J\u0101nis Zirnis",
-        "personId": "2013ZIRN01",
-        "country": "Latvia",
-        "comments": "Latvia - R\u012bga",
-        "single": 29,
-        "average": 43.33
     },
     {
         "name": "Alfred Saidlo",
@@ -1440,14 +1440,6 @@
         "average": 999
     },
     {
-        "name": "Roberts Dreijers",
-        "personId": "2018DREI02",
-        "country": "Latvia",
-        "comments": "Latvia - R\u012bga",
-        "single": 40,
-        "average": 999
-    },
-    {
         "name": "Vincent Chan",
         "personId": "2017CHAN44",
         "country": "Netherlands",
@@ -1461,6 +1453,14 @@
         "country": "Netherlands",
         "comments": "Netherlands - Zeewolde",
         "single": 41,
+        "average": 999
+    },
+    {
+        "name": "Danylo Harbar",
+        "personId": "2017HARB01",
+        "country": "Ukraine",
+        "comments": "Ukraine - Kharkiv",
+        "single": 42,
         "average": 999
     },
     {
@@ -1548,6 +1548,14 @@
         "personId": "2017GOKA01",
         "country": "Turkey",
         "comments": "Turkey - \u0130stanbul",
+        "single": 49,
+        "average": 999
+    },
+    {
+        "name": "Lucas Hansen",
+        "personId": "2017HANS17",
+        "country": "Denmark",
+        "comments": "Denmark - M\u00e5l\u00f8v",
         "single": 49,
         "average": 999
     },
@@ -1640,14 +1648,6 @@
         "average": 999
     },
     {
-        "name": "Mat\u012bss Maksis Podinskis",
-        "personId": "2018PODI02",
-        "country": "Latvia",
-        "comments": "Latvia - R\u012bga",
-        "single": 63,
-        "average": 999
-    },
-    {
         "name": "Jan Erik Soosaar",
         "personId": "2016SOOS01",
         "country": "Estonia",
@@ -1677,22 +1677,6 @@
         "country": "Russia",
         "comments": "Russia - Belgorod",
         "single": 72,
-        "average": 999
-    },
-    {
-        "name": "Art\u016brs Smiltnieks",
-        "personId": "2018SMIL01",
-        "country": "Latvia",
-        "comments": "Latvia - R\u012bga",
-        "single": 74,
-        "average": 999
-    },
-    {
-        "name": "Aleksandrs Jesi\u013cevskis",
-        "personId": "",
-        "country": "Latvia",
-        "comments": "Latvia - R\u012bga",
-        "single": 999,
         "average": 999
     },
     {
@@ -1936,22 +1920,6 @@
         "average": 999
     },
     {
-        "name": "Kri\u0161j\u0101nis Nur\u017ea",
-        "personId": "2018NURZ01",
-        "country": "Latvia",
-        "comments": "Latvia - R\u012bga",
-        "single": 999,
-        "average": 999
-    },
-    {
-        "name": "K\u0101rlis \u010cer\u0146avskis",
-        "personId": "2017CERN02",
-        "country": "Latvia",
-        "comments": "Latvia - R\u012bga",
-        "single": 999,
-        "average": 999
-    },
-    {
         "name": "Leonid Palchenko",
         "personId": "2016PALC02",
         "country": "Ukraine",
@@ -2060,6 +2028,14 @@
         "personId": "2018ZOUX03",
         "country": "China",
         "comments": "Germany - Dortmund",
+        "single": 999,
+        "average": 999
+    },
+    {
+        "name": "Yehor Bulhakov",
+        "personId": "2017BULH01",
+        "country": "Ukraine",
+        "comments": "Ukraine - Kharkiv",
         "single": 999,
         "average": 999
     }

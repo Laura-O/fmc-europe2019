@@ -168,6 +168,14 @@
         "average": 28.0
     },
     {
+        "name": "Karam Al-Robaie",
+        "personId": "2016ALRO01",
+        "country": "United Kingdom",
+        "comments": "United Kingdom - London",
+        "single": 25,
+        "average": 28.0
+    },
+    {
         "name": "Niko Ronkainen",
         "personId": "2010RONK01",
         "country": "Finland",
@@ -197,6 +205,14 @@
         "country": "Ukraine",
         "comments": "Ukraine - Dnepr",
         "single": 21,
+        "average": 28.67
+    },
+    {
+        "name": "Fritz L\u00f6hr",
+        "personId": "2011LOHR01",
+        "country": "Germany",
+        "comments": "Germany - Regensburg",
+        "single": 22,
         "average": 28.67
     },
     {
@@ -384,6 +400,14 @@
         "average": 31.0
     },
     {
+        "name": "Lorenzo Mauro",
+        "personId": "2014MAUR06",
+        "country": "Italy",
+        "comments": "Italy - Milano",
+        "single": 30,
+        "average": 31.0
+    },
+    {
         "name": "Serhii Mormul",
         "personId": "2012MORM01",
         "country": "Ukraine",
@@ -397,6 +421,14 @@
         "country": "Slovenia",
         "comments": "Slovenia - Maribor",
         "single": 27,
+        "average": 31.33
+    },
+    {
+        "name": "Alessandro Nicol\u00ec",
+        "personId": "2012NICO02",
+        "country": "Italy",
+        "comments": "Italy - Milano",
+        "single": 31,
         "average": 31.33
     },
     {
@@ -568,6 +600,14 @@
         "average": 33.33
     },
     {
+        "name": "Federico Borgogni",
+        "personId": "2014BORG02",
+        "country": "Italy",
+        "comments": "Italy - Milano",
+        "single": 29,
+        "average": 33.33
+    },
+    {
         "name": "Alban Reynaud",
         "personId": "2011REYN02",
         "country": "France",
@@ -584,27 +624,11 @@
         "average": 33.67
     },
     {
-        "name": "Karam Al-Robaie",
-        "personId": "2016ALRO01",
-        "country": "United Kingdom",
-        "comments": "United Kingdom - London",
-        "single": 27,
-        "average": 33.67
-    },
-    {
         "name": "Adrian Estrada",
         "personId": "2010ESTR01",
         "country": "Peru",
         "comments": "Italy - Milano",
-        "single": 31,
-        "average": 33.67
-    },
-    {
-        "name": "Lorenzo Mauro",
-        "personId": "2014MAUR06",
-        "country": "Italy",
-        "comments": "Italy - Milano",
-        "single": 32,
+        "single": 30,
         "average": 33.67
     },
     {
@@ -752,11 +776,27 @@
         "average": 36.0
     },
     {
+        "name": "Arkadiusz Abramowski",
+        "personId": "2014ABRA01",
+        "country": "Poland",
+        "comments": "Poland - D\u0105browa G\u00f3rnicza",
+        "single": 30,
+        "average": 36.67
+    },
+    {
         "name": "Kalina Jakubowska",
         "personId": "2009BRZE01",
         "country": "Poland",
         "comments": "Poland - Gda\u0144sk",
         "single": 31,
+        "average": 36.67
+    },
+    {
+        "name": "Matteo Colombo",
+        "personId": "2009COLO03",
+        "country": "Italy",
+        "comments": "Italy - Milano",
+        "single": 32,
         "average": 36.67
     },
     {
@@ -912,14 +952,6 @@
         "average": 39.67
     },
     {
-        "name": "Alessandro Nicol\u00ec",
-        "personId": "2012NICO02",
-        "country": "Italy",
-        "comments": "Italy - Milano",
-        "single": 35,
-        "average": 39.67
-    },
-    {
         "name": "Andreas Pung",
         "personId": "2009PUNG01",
         "country": "Estonia",
@@ -974,6 +1006,14 @@
         "comments": "Germany - Regensburg",
         "single": 37,
         "average": 40.67
+    },
+    {
+        "name": "Friedrun Schauer",
+        "personId": "2017SCHA06",
+        "country": "Germany",
+        "comments": "Germany - Dortmund",
+        "single": 39,
+        "average": 41.33
     },
     {
         "name": "Alex Kekkonen",
@@ -1312,14 +1352,6 @@
         "average": 999
     },
     {
-        "name": "Federico Borgogni",
-        "personId": "2014BORG02",
-        "country": "Italy",
-        "comments": "Italy - Milano",
-        "single": 29,
-        "average": 999
-    },
-    {
         "name": "Mutlu \u00d6z\u00e7elebi",
         "personId": "2013OZCE01",
         "country": "Turkey",
@@ -1480,10 +1512,10 @@
         "average": 999
     },
     {
-        "name": "Roberts Dreijers",
-        "personId": "2018DREI02",
-        "country": "Latvia",
-        "comments": "Latvia - R\u012bga",
+        "name": "Enrico Saggiorato",
+        "personId": "2018SAGG01",
+        "country": "Italy",
+        "comments": "Italy - Milano",
         "single": 40,
         "average": 999
     },
@@ -1704,14 +1736,6 @@
         "average": 999
     },
     {
-        "name": "Mat\u012bss Maksis Podinskis",
-        "personId": "2018PODI02",
-        "country": "Latvia",
-        "comments": "Latvia - R\u012bga",
-        "single": 63,
-        "average": 999
-    },
-    {
         "name": "Jan Erik Soosaar",
         "personId": "2016SOOS01",
         "country": "Estonia",
@@ -1741,14 +1765,6 @@
         "country": "Russia",
         "comments": "Russia - Belgorod",
         "single": 72,
-        "average": 999
-    },
-    {
-        "name": "Art\u016brs Smiltnieks",
-        "personId": "2018SMIL01",
-        "country": "Latvia",
-        "comments": "Latvia - R\u012bga",
-        "single": 74,
         "average": 999
     },
     {
@@ -1928,14 +1944,6 @@
         "average": 999
     },
     {
-        "name": "Enrico Saggiorato",
-        "personId": "2018SAGG01",
-        "country": "Italy",
-        "comments": "Italy - Milano",
-        "single": 999,
-        "average": 999
-    },
-    {
         "name": "Fabian Settelen",
         "personId": "2015SETT01",
         "country": "Switzerland",
@@ -1948,6 +1956,14 @@
         "personId": "",
         "country": "Spain",
         "comments": "Germany - Regensburg",
+        "single": 999,
+        "average": 999
+    },
+    {
+        "name": "Gustav Schauer",
+        "personId": "2017SCHA07",
+        "country": "Germany",
+        "comments": "Germany - Dortmund",
         "single": 999,
         "average": 999
     },
@@ -2016,22 +2032,6 @@
         "average": 999
     },
     {
-        "name": "Kri\u0161j\u0101nis Nur\u017ea",
-        "personId": "2018NURZ01",
-        "country": "Latvia",
-        "comments": "Latvia - R\u012bga",
-        "single": 999,
-        "average": 999
-    },
-    {
-        "name": "K\u0101rlis \u010cer\u0146avskis",
-        "personId": "2017CERN02",
-        "country": "Latvia",
-        "comments": "Latvia - R\u012bga",
-        "single": 999,
-        "average": 999
-    },
-    {
         "name": "Leonid Palchenko",
         "personId": "2016PALC02",
         "country": "Ukraine",
@@ -2040,3 +2040,123 @@
         "average": 999
     },
     {
+        "name": "Lukas Noel",
+        "personId": "2017NOEL03",
+        "country": "Sweden",
+        "comments": "Sweden - Tullinge",
+        "single": 999,
+        "average": 999
+    },
+    {
+        "name": "Marat Dzhonger",
+        "personId": "2018DZHO01",
+        "country": "Ukraine",
+        "comments": "Ukraine - Kharkiv",
+        "single": 999,
+        "average": 999
+    },
+    {
+        "name": "Mohamed Ba Ndour",
+        "personId": "2017NDOU01",
+        "country": "Spain",
+        "comments": "United Kingdom - Ely",
+        "single": 999,
+        "average": 999
+    },
+    {
+        "name": "Muhammad Saleh Imtiaz",
+        "personId": "2018IMTI01",
+        "country": "Pakistan",
+        "comments": "Sweden - Tullinge",
+        "single": 999,
+        "average": 999
+    },
+    {
+        "name": "Robert Reed",
+        "personId": "2018REED06",
+        "country": "United Kingdom",
+        "comments": "United Kingdom - Ely",
+        "single": 999,
+        "average": 999
+    },
+    {
+        "name": "Samuel Jehanno",
+        "personId": "2018JEHA01",
+        "country": "France",
+        "comments": "France - Lyon",
+        "single": 999,
+        "average": 999
+    },
+    {
+        "name": "Sarah Fluck",
+        "personId": "2018FLUC01",
+        "country": "United Kingdom",
+        "comments": "United Kingdom - London",
+        "single": 999,
+        "average": 999
+    },
+    {
+        "name": "Sherkhan-Mukhammad Nasirov",
+        "personId": "2017NASI01",
+        "country": "Uzbekistan",
+        "comments": "Turkey - \u0130stanbul",
+        "single": 999,
+        "average": 999
+    },
+    {
+        "name": "Svyatoslav Korobov",
+        "personId": "",
+        "country": "Russia",
+        "comments": "Russia - Belgorod",
+        "single": 999,
+        "average": 999
+    },
+    {
+        "name": "Thomas Stokes",
+        "personId": "2017STOK03",
+        "country": "United Kingdom",
+        "comments": "United Kingdom - Guildford",
+        "single": 999,
+        "average": 999
+    },
+    {
+        "name": "Tommaso De Micheli",
+        "personId": "",
+        "country": "Italy",
+        "comments": "Italy - Rovigo",
+        "single": 999,
+        "average": 999
+    },
+    {
+        "name": "Urho Kinnunen",
+        "personId": "2018KINN05",
+        "country": "Finland",
+        "comments": "Finland - Helsinki",
+        "single": 999,
+        "average": 999
+    },
+    {
+        "name": "Valerii Borysov",
+        "personId": "2018BORY01",
+        "country": "Ukraine",
+        "comments": "Ukraine - Dnepr",
+        "single": 999,
+        "average": 999
+    },
+    {
+        "name": "Xieben Zou",
+        "personId": "2018ZOUX03",
+        "country": "China",
+        "comments": "Germany - Dortmund",
+        "single": 999,
+        "average": 999
+    },
+    {
+        "name": "Yehor Bulhakov",
+        "personId": "2017BULH01",
+        "country": "Ukraine",
+        "comments": "Ukraine - Kharkiv",
+        "single": 999,
+        "average": 999
+    }
+]
